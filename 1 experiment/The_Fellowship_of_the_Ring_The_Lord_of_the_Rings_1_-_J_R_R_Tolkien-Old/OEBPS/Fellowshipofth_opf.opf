@@ -19,7 +19,9 @@
     <item href="cover.html" id="cover" media-type="application/xhtml+xml"/>
     <item href="Fellowshipofth_title-1.html" id="title-1" media-type="application/xhtml+xml"/>
     <item href="Fellowshipofth_ackn-1.html" id="ackn-1" media-type="application/xhtml+xml"/>
-    <item href="Fellowshipofth_toc.html" id="toc" media-type="application/xhtml+xml"/>
+    <item id="treemap" href="script/treemap.js" media-type="text/javascript"/>
+    <item id="treemap_file" href="script/assets/treemap_file.js" media-type="text/javascript"/>
+    <item href="Fellowshipofth_toc.xhtml" id="toc" media-type="application/xhtml+xml" properties="scripted"/>
     <item href="Fellowshipofth_pref-1.html" id="pref-1" media-type="application/xhtml+xml"/>
     <item href="Fellowshipofth_intr-1.html" id="intr-1" media-type="application/xhtml+xml"/>
     <item href="Fellowshipofth_fore-1.html" id="fore-1" media-type="application/xhtml+xml"/>
