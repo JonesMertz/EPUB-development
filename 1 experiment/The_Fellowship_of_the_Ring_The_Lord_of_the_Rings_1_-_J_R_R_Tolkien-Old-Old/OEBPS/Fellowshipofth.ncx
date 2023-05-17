@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="9780007322497" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.14.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Fellowship of the Ring</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>TITLE PAGE</text>
+      </navLabel>
+      <content src="Fellowshipofth_title-1.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>TABLE OF CONTENTS</text>
+      </navLabel>
+      <content src="Fellowshipofth_toc.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>NOTE ON THE TEXT</text>
+      </navLabel>
+      <content src="Fellowshipofth_pref-1.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>NOTE ON THE 50TH ANNIVERSARY EDITION</text>
+      </navLabel>
+      <content src="Fellowshipofth_intr-1.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>FOREWORD TO THE SECOND EDITION</text>
+      </navLabel>
+      <content src="Fellowshipofth_fore-1.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>PROLOGUE</text>
+      </navLabel>
+      <content src="Fellowshipofth_prol-1.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>BOOK ONE</text>
+      </navLabel>
+      <content src="Fellowshipofth_part-1.html"/>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>CHAPTER 1: A LONG-EXPECTED PARTY</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-1.html"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>CHAPTER 2: THE SHADOW OF THE PAST</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-2.html"/>
+      </navPoint>
+      <navPoint id="num_10" playOrder="10">
+        <navLabel>
+          <text>CHAPTER 3: THREE IS COMPANY</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-3.html"/>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>CHAPTER 4: A SHORT CUT TO MUSHROOMS</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-4.html"/>
+      </navPoint>
+      <navPoint id="num_12" playOrder="12">
+        <navLabel>
+          <text>CHAPTER 5: A CONSPIRACY UNMASKED</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-5.html"/>
+      </navPoint>
+      <navPoint id="num_13" playOrder="13">
+        <navLabel>
+          <text>CHAPTER 6: THE OLD FOREST</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-6.html"/>
+      </navPoint>
+      <navPoint id="num_14" playOrder="14">
+        <navLabel>
+          <text>CHAPTER 7: IN THE HOUSE OF TOM BOMBADIL</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-7.html"/>
+      </navPoint>
+      <navPoint id="num_15" playOrder="15">
+        <navLabel>
+          <text>CHAPTER 8: FOG ON THE BARROW-DOWNS</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-8.html"/>
+      </navPoint>
+      <navPoint id="num_16" playOrder="16">
+        <navLabel>
+          <text>CHAPTER 9: AT THE SIGN OF THE PRANCING PONY</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-9.html"/>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>CHAPTER 10: STRIDER</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-10.html"/>
+      </navPoint>
+      <navPoint id="num_18" playOrder="18">
+        <navLabel>
+          <text>CHAPTER 11: A KNIFE IN THE DARK</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-11.html"/>
+      </navPoint>
+      <navPoint id="num_19" playOrder="19">
+        <navLabel>
+          <text>CHAPTER 12: FLIGHT TO THE FORD</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-12.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_20" playOrder="20">
+      <navLabel>
+        <text>BOOK TWO</text>
+      </navLabel>
+      <content src="Fellowshipofth_part-2.html"/>
+      <navPoint id="num_21" playOrder="21">
+        <navLabel>
+          <text>CHAPTER 1: MANY MEETINGS</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-13.html"/>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>CHAPTER 2: THE COUNCIL OF ELROND</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-14.html"/>
+      </navPoint>
+      <navPoint id="num_23" playOrder="23">
+        <navLabel>
+          <text>CHAPTER 3: THE RING GOES SOUTH</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-15.html"/>
+      </navPoint>
+      <navPoint id="num_24" playOrder="24">
+        <navLabel>
+          <text>CHAPTER 4: A JOURNEY IN THE DARK</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-16.html"/>
+      </navPoint>
+      <navPoint id="num_25" playOrder="25">
+        <navLabel>
+          <text>CHAPTER 5: THE BRIDGE OF KHAZAD-DÛM</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-17.html"/>
+      </navPoint>
+      <navPoint id="num_26" playOrder="26">
+        <navLabel>
+          <text>CHAPTER 6: LOTHLÓRIEN</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-18.html"/>
+      </navPoint>
+      <navPoint id="num_27" playOrder="27">
+        <navLabel>
+          <text>CHAPTER 7: THE MIRROR OF GALADRIEL</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-19.html"/>
+      </navPoint>
+      <navPoint id="num_28" playOrder="28">
+        <navLabel>
+          <text>CHAPTER 8: FAREWELL TO LÓRIEN</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-20.html"/>
+      </navPoint>
+      <navPoint id="num_29" playOrder="29">
+        <navLabel>
+          <text>CHAPTER 9: THE GREAT RIVER</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-21.html"/>
+      </navPoint>
+      <navPoint id="num_30" playOrder="30">
+        <navLabel>
+          <text>CHAPTER 10: THE BREAKING OF THE FELLOWSHIP</text>
+        </navLabel>
+        <content src="Fellowshipofth_chap-22.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_31" playOrder="31">
+      <navLabel>
+        <text>MAPS</text>
+      </navLabel>
+      <content src="Fellowshipofth_chap-23.html"/>
+    </navPoint>
+    <navPoint id="num_32" playOrder="32">
+      <navLabel>
+        <text>WORKS BY J.R.R. TOLKIEN</text>
+      </navLabel>
+      <content src="Fellowshipofth_adca-1.html"/>
+    </navPoint>
+    <navPoint id="num_33" playOrder="33">
+      <navLabel>
+        <text>COPYRIGHT</text>
+      </navLabel>
+      <content src="Fellowshipofth_copy.html"/>
+    </navPoint>
+    <navPoint id="num_34" playOrder="34">
+      <navLabel>
+        <text>ABOUT THE PUBLISHER</text>
+      </navLabel>
+      <content src="Fellowshipofth_pub-1.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
