@@ -22,16 +22,23 @@ function csvToArray(str, delimiter = ",") {
 	});
 	// return the array
 	return arr;
-}
+};
 
 function sortArrayByProperty(arrayToSort) {
 	const objectSortedByIngredient = arrayToSort.reduce(function (objectByIngredient, objectToReduce) {
 		if (objectToReduce.ingredient === "") {
-			objectToReduce.ingredient = "Miscellaneous"
+			return objectByIngredient;
+			objectToReduce.ingredient = "Miscellaneous";
+
 		};
 
 		if (!Array.isArray(objectByIngredient[objectToReduce.ingredient])) {
-			objectByIngredient[objectToReduce.ingredient] = [];
+			objectByIngredient[objectToReduce.ingredient] = [{
+				name: "Origin",
+				parent: "",
+				value: "",
+				ingredient: ""
+			}];
 		} else {
 			objectByIngredient[objectToReduce.ingredient].push(objectToReduce);
 		}
@@ -40,6 +47,39 @@ function sortArrayByProperty(arrayToSort) {
 	}, {})
 
 	return objectSortedByIngredient;
+};
+
+function getIngredientArray(arrayToReduce) {
+	const ingredientCount = {};
+	console.log(arrayToReduce)
+	arrayToReduce.forEach(function (objectToReduce) {
+		if (objectToReduce.ingredient === "") {
+			return;	
+		}
+		if (!ingredientCount[objectToReduce.ingredient]) {
+			ingredientCount[objectToReduce.ingredient] = {};
+			ingredientCount[objectToReduce.ingredient].value = 1;
+			ingredientCount[objectToReduce.ingredient].name = objectToReduce.ingredient;
+			ingredientCount[objectToReduce.ingredient].parent = "Origin";
+
+		} else {
+			ingredientCount[objectToReduce.ingredient].value += 1;
+		}
+	});
+	console.log(ingredientCount)
+
+	let ingredients = [{
+		name: "Origin",
+		parent: "",
+		value: "",
+		ingredient: ""
+	}];
+
+	for (const property in ingredientCount) { 
+		ingredients.push(ingredientCount[property]);
+	};
+
+	return ingredients;
 }
 
 // set the dimensions and margins of the graph
@@ -48,8 +88,31 @@ var margin = { top: 10, right: 10, bottom: 10, left: 10 },
 	height = 445 - margin.top - margin.bottom;
 
 // takes the id of the element it needs to insert the treemap into
-/* function addTreemap(treemap_data, element_id) {
+function addTreemap(treemap_data, element_id) {
+	if (treemap_data.length === 0) {
+		return;
+	}
+	console.log(treemap_data)
 	// stratify the data: reformatting for d3.js
+	var root = d3
+		.stratify()
+		.id(function (d) {
+			return d.name;
+		}) // Name of the entity (column name is name in csv)
+		.parentId(function (d) {
+			return d.parent;
+		})(
+		// Name of the parent (column name is parent in csv)
+		treemap_data
+	);
+
+	root.sum(function (d) {
+		return +d.value;
+	}); // Compute the numeric value for each entity
+
+	// Then d3.treemap computes the position of each element of the hierarchy
+	// The coordinates are added to the root object above
+	d3.treemap().size([width, height]).padding(4)(root);
 	
 	var treemap = d3
 	.select(element_id)
@@ -96,38 +159,21 @@ var margin = { top: 10, right: 10, bottom: 10, left: 10 },
 		})
 		.attr("font-size", "15px")
 		.attr("fill", "black");
-} */
+}
 
 // append the svg object to the body of the page
 var data = csvToArray(file, ",");
+let ingredientArray = getIngredientArray(data);
 
 // sort it into an object by ingredient
-//data = sortArrayByProperty(data);
+data = sortArrayByProperty(data);
+console.log(ingredientArray)
+addTreemap(ingredientArray, "#treemap")
 
 
-var root = d3
-	.stratify()
-	.id(function (d) {
-		return d.name;
-	}) // Name of the entity (column name is name in csv)
-	.parentId(function (d) {
-		return d.parent;
-	})(
-	// Name of the parent (column name is parent in csv)
-	data
-);
-
-root.sum(function (d) {
-	return +d.value;
-}); // Compute the numeric value for each entity
-
-// Then d3.treemap computes the position of each element of the hierarchy
-// The coordinates are added to the root object above
-d3.treemap().size([width, height]).padding(4)(root);
-
-
+console.log(data);
 for (const property in data) {
-  //addTreemap(data[property], "#treemap_" + property);
+  addTreemap(data[property], "#treemap");
 }
 //addTreemap(data, "#treemap1");
 
