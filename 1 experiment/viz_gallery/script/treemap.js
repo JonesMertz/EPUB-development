@@ -43,6 +43,7 @@ var svg = d3
 var data = csvToArray(file, ",");
 
 // stratify the data: reformatting for d3.js
+console.log(data);
 var root = d3
 	.stratify()
 	.id(function (d) {
