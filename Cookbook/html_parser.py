@@ -327,7 +327,8 @@ for row in rows:
     cols = row.find_all('td')
     if cols:
         text = cols[0].text.strip()
-        data.append([text, 'Origin', str(42)])  # Change '42' to your desired value between 1 and 100
+        href = cols[1].find('a')['href'].strip()
+        data.append([text.replace(",", ""), 'Origin', str(42),href])  # Change '42' to your desired value between 1 and 100
 
 # Write data to CSV file
 with open('output.csv', 'w', newline='') as csvfile:

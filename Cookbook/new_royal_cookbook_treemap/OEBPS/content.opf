@@ -26,12 +26,12 @@
     <item href="0.css" id="item2" media-type="text/css"/>
     <item href="1.css" id="item3" media-type="text/css"/>
     <!--Chunk: size=220198 Split on h2-->
-    <item href="285609155383144226_38193-h-0.htm.xhtml" id="pg-header" media-type="application/xhtml+xml"/>
+    <item href="285609155383144226_38193-h-0.htm.xhtml" id="pg-header" media-type="application/xhtml+xml" properties="scripted"/>
     <!--Chunk: size=119616 Split on section-->
-    <item href="285609155383144226_38193-h-1.htm.xhtml" id="item4" media-type="application/xhtml+xml"/>
+    <item href="285609155383144226_38193-h-1.htm.xhtml" id="item4" media-type="application/xhtml+xml" properties="scripted"/>
     <!--Chunk: size=19799-->
-    <item href="285609155383144226_38193-h-2.htm.xhtml" id="pg-footer" media-type="application/xhtml+xml"/>
-    <item id="d3" href="script/d3/d3.js" media-type="text/javascript"/>
+    <item href="285609155383144226_38193-h-2.htm.xhtml" id="pg-footer" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="d3" href="script/d3/d3.js" media-type="text/javascript" properties="scripted"/>
     <item id="treemap_file" href="script/assets/treemap_file.js" media-type="text/javascript"/>
     <item id="treemap" href="script/treemap.js" media-type="text/javascript"/>
     <item href="toc.xhtml" id="ncx" media-type="application/xhtml+xml" properties="nav scripted"/>

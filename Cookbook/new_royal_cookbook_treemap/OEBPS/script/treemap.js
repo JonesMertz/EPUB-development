@@ -1,3 +1,10 @@
+// set the dimensions and margins of the graph
+var margin = { top: 10, right: 10, bottom: 10, left: 10 },
+	width = 445 - margin.left - margin.right,
+	height = 565 - margin.top - margin.bottom;
+
+var ingredientArray = [];
+
 function csvToArray(str, delimiter = ",") {
 	// slice from start of text to the first \n index
 	// use split to create an array from string by delimiter
@@ -31,17 +38,20 @@ function sortArrayByProperty(arrayToSort) {
 			objectToReduce.ingredient = "Miscellaneous";
 
 		};
-
-		if (!Array.isArray(objectByIngredient[objectToReduce.ingredient])) {
-			objectByIngredient[objectToReduce.ingredient] = [{
-				name: "Origin",
-				parent: "",
-				value: "",
-				ingredient: ""
-			}];
-		} else {
-			objectByIngredient[objectToReduce.ingredient].push(objectToReduce);
-		}
+		
+		objectToReduce.ingredient.split(" ").forEach(function (recipe) {
+			if (!Array.isArray(objectByIngredient[recipe])) {
+				objectByIngredient[recipe] = [{
+					name: "Origin",
+					parent: "",
+					value: "",
+					ingredient: ""
+				}];
+				objectByIngredient[recipe].push(objectToReduce);
+			} else {
+				objectByIngredient[recipe].push(objectToReduce);
+			}
+		});
 		
 		return objectByIngredient;
 	}, {})
@@ -51,22 +61,27 @@ function sortArrayByProperty(arrayToSort) {
 
 function getIngredientArray(arrayToReduce) {
 	const ingredientCount = {};
-	console.log(arrayToReduce)
 	arrayToReduce.forEach(function (objectToReduce) {
 		if (objectToReduce.ingredient === "") {
 			return;	
 		}
-		if (!ingredientCount[objectToReduce.ingredient]) {
-			ingredientCount[objectToReduce.ingredient] = {};
-			ingredientCount[objectToReduce.ingredient].value = 1;
-			ingredientCount[objectToReduce.ingredient].name = objectToReduce.ingredient;
-			ingredientCount[objectToReduce.ingredient].parent = "Origin";
+		console.log(objectToReduce)
+		objectToReduce.ingredient.split(" ").forEach(function (recipe) {
+			if(recipe === "List") { return; }
+			if (!ingredientCount[recipe]) {
+				ingredientCount[recipe] = {};
+				ingredientCount[recipe].value = 7;
+				ingredientCount[recipe].name = recipe;
+				ingredientCount[recipe].parent = "Origin";
+				ingredientCount[recipe].href = "285609155383144226_38193-h-0.htm.xhtml#treemap_" + recipe;
+				ingredientCount[recipe].class = "pginternal";
 
-		} else {
-			ingredientCount[objectToReduce.ingredient].value += 1;
-		}
+
+			} else {
+				ingredientCount[recipe].value += 1;
+			}
+		});
 	});
-	console.log(ingredientCount)
 
 	let ingredients = [{
 		name: "Origin",
@@ -81,11 +96,6 @@ function getIngredientArray(arrayToReduce) {
 
 	return ingredients;
 }
-
-// set the dimensions and margins of the graph
-var margin = { top: 10, right: 10, bottom: 10, left: 10 },
-	width = 445 - margin.left - margin.right,
-	height = 445 - margin.top - margin.bottom;
 
 // takes the id of the element it needs to insert the treemap into
 function addTreemap(treemap_data, element_id) {
@@ -112,20 +122,70 @@ function addTreemap(treemap_data, element_id) {
 
 	// Then d3.treemap computes the position of each element of the hierarchy
 	// The coordinates are added to the root object above
-	d3.treemap().size([width, height]).padding(4)(root);
+	console.log(d3)
+	let treemapLayout = d3.treemap().size([width, height]).padding(4);
+	treemapLayout.tile(d3.treemapSquarify.ratio(1.1));
+	treemapLayout(root);
+
+	d3.select(element_id)
+		.append("h2")
+		.text(element_id.split("_")[1]);
 	
-	var treemap = d3
+	var svg = d3
 	.select(element_id)
 	.append("svg")
 	.attr("width", width + margin.left + margin.right)
 	.attr("height", height + margin.top + margin.bottom)
-	.append("g")
-	.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+		.attr("page-break-before", "always")
 	
-	treemap.selectAll("rect")
-	.data(root.leaves())
-	.enter()
-	.append("rect")
+	/* svg
+  .append('defs')
+  .append('pattern')
+    .attr('id', 'diagonalHatch')
+    .attr('patternUnits', 'userSpaceOnUse')
+    .attr('width', 4)
+    .attr('height', 4)
+  .append('path')
+    .attr('d', 'M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2')
+    .attr('stroke', '#000000')
+    .attr('stroke-width', 1); */
+
+/* svg.append("rect")
+      .attr("x", 0)
+      .attr("width", 100)
+      .attr("height", 100)
+      .style("fill", 'yellow');
+
+svg.append("rect")
+    .attr("x", 0)
+    .attr("width", 100)
+    .attr("height", 100)
+    .attr('fill', 'url(#diagonalHatch)'); */
+	
+	var treemap =
+	svg.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+	
+	/* var treemap = d3
+	.select(element_id)
+	.append("svg")
+	.attr("width", width + margin.left + margin.right)
+	.attr("height", height + margin.top + margin.bottom)
+	.attr("page-break-before", "always")
+	.append("g")
+	.attr("transform", "translate(" + margin.left + "," + margin.top + ")"); */
+	
+	var rects = treemap.selectAll("rect")
+		.data(root.leaves())
+		.enter()
+		.append("a")
+		.attr("href", function (d) {
+		return d.data.href;
+		})
+		.attr("class", function (d) { 
+			return d.data.class
+		})	
+	rects.append("rect")
 	.attr("x", function (d) {
 		return d.x0;
 	})
@@ -141,7 +201,25 @@ function addTreemap(treemap_data, element_id) {
 	.style("stroke", "black")
 	.style("fill", function (d) {
 		return "white";
-	});
+	})
+	/* .on("click", function () {
+		addTreemap(ingredientArray, "#treemap")
+ 		d3.event.stopPropagation();
+	}); */
+	rects.append("rect")
+    .attr("x", function (d) {
+		return d.x0;
+	})
+	.attr("y", function (d) {
+		return d.y0;
+	})
+	.attr("width", function (d) {
+		return d.x1 - d.x0;
+	})
+	.attr("height", function (d) {
+		return d.y1 - d.y0;
+	})
+    .attr('fill', 'url(#diagonalHatch)');
 	// .append("a").attr("href", "285609155383144226_38193-h-1.htm.xhtml#Cheese_Straws")
 	// and to add the text labels
 	treemap.selectAll("text")
@@ -149,7 +227,7 @@ function addTreemap(treemap_data, element_id) {
 		.enter()
 		.append("text")
 		.attr("x", function (d) {
-			return d.x0 + 10;
+			return d.x0 + 5;
 		}) // +10 to adjust position (more right)
 		.attr("y", function (d) {
 			return d.y0 + 20;
@@ -161,20 +239,40 @@ function addTreemap(treemap_data, element_id) {
 		.attr("fill", "black");
 }
 
-// append the svg object to the body of the page
-var data = csvToArray(file, ",");
-let ingredientArray = getIngredientArray(data);
+function addPatternToRows() {
+	var table = d3.select("#table");
+	console.log(table);
+	var rows = table.selectAll("tr")
+	console.log(rows);
+	var cells = rows.selectAll("td")
+	console.log(cells);
 
-// sort it into an object by ingredient
-data = sortArrayByProperty(data);
-console.log(ingredientArray)
-addTreemap(ingredientArray, "#treemap")
-
-
-console.log(data);
-for (const property in data) {
-  addTreemap(data[property], "#treemap");
+	d3.selectAll("rect").attr("fill", "url(#diagonalHatch)");
 }
+
+var data = csvToArray(file2, ",");
+var ingredientArray = getIngredientArray(data);
+data = sortArrayByProperty(data);
+setTimeout(function () { 
+	// append the svg object to the body of the page
+	//var ingredientArray = getIngredientArray(data);
+
+	// sort it into an object by ingredient
+	console.log("IngredientArray:")
+	console.log(ingredientArray)
+	addTreemap(ingredientArray, "#treemap")
+
+
+	console.log(data);
+	for (const property in data) {
+		if (property === "List") { continue; }
+		d3.select("#table_of_contents").append("div").attr("id", "treemap_" + property);
+		addTreemap(data[property], "#treemap_" + property);
+	}
+
+}, 2000);
+
+
 //addTreemap(data, "#treemap1");
 
 // Read data
