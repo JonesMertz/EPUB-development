@@ -1,6 +1,6 @@
 // set the dimensions and margins of the graph
 var margin = { top: 10, right: 10, bottom: 10, left: 10 },
-	width = 445 - margin.left - margin.right,
+	width = 505 - margin.left - margin.right,
 	height = 565 - margin.top - margin.bottom;
 
 var ingredientArray = [];
@@ -65,7 +65,6 @@ function getIngredientArray(arrayToReduce) {
 		if (objectToReduce.ingredient === "") {
 			return;	
 		}
-		console.log(objectToReduce)
 		objectToReduce.ingredient.split(" ").forEach(function (recipe) {
 			if(recipe === "List") { return; }
 			if (!ingredientCount[recipe]) {
@@ -73,7 +72,7 @@ function getIngredientArray(arrayToReduce) {
 				ingredientCount[recipe].value = 7;
 				ingredientCount[recipe].name = recipe;
 				ingredientCount[recipe].parent = "Origin";
-				ingredientCount[recipe].href = "285609155383144226_38193-h-0.htm.xhtml#treemap_" + recipe;
+				ingredientCount[recipe].href = "285609155383144226_38193-h-0.htm.xhtml#treemap" + recipe.toLowerCase();
 				ingredientCount[recipe].class = "pginternal";
 
 
@@ -102,7 +101,6 @@ function addTreemap(treemap_data, element_id) {
 	if (treemap_data.length === 0) {
 		return;
 	}
-	console.log(treemap_data)
 	// stratify the data: reformatting for d3.js
 	var root = d3
 		.stratify()
@@ -112,9 +110,9 @@ function addTreemap(treemap_data, element_id) {
 		.parentId(function (d) {
 			return d.parent;
 		})(
-		// Name of the parent (column name is parent in csv)
-		treemap_data
-	);
+			// Name of the parent (column name is parent in csv)
+			treemap_data
+		);
 
 	root.sum(function (d) {
 		return +d.value;
@@ -122,49 +120,56 @@ function addTreemap(treemap_data, element_id) {
 
 	// Then d3.treemap computes the position of each element of the hierarchy
 	// The coordinates are added to the root object above
-	console.log(d3)
 	let treemapLayout = d3.treemap().size([width, height]).padding(4);
-	treemapLayout.tile(d3.treemapSquarify.ratio(1.1));
+	treemapLayout.tile(d3.treemapSquarify.ratio(1.3));
 	treemapLayout(root);
 
+	var treemap_header = element_id.split("_")[1] || "Table of Contents"
 	d3.select(element_id)
 		.append("h2")
-		.text(element_id.split("_")[1]);
+		.text(treemap_header);
 	
+	
+	if (element_id != "#treemap") {
+		d3.select(element_id)
+			.append("a")
+			.attr("href", "285609155383144226_38193-h-0.htm.xhtml#treemap")
+			.text("Return to Table of Contents")
+	}
 	var svg = d3
-	.select(element_id)
-	.append("svg")
-	.attr("width", width + margin.left + margin.right)
-	.attr("height", height + margin.top + margin.bottom)
-		.attr("page-break-before", "always")
+		.select(element_id)
+		.append("svg")
+		.attr("width", width + margin.left + margin.right)
+		.attr("height", height + margin.top + margin.bottom)
+		//.attr("page-break-after", "always")
 	
 	/* svg
   .append('defs')
   .append('pattern')
-    .attr('id', 'diagonalHatch')
-    .attr('patternUnits', 'userSpaceOnUse')
-    .attr('width', 4)
-    .attr('height', 4)
+	.attr('id', 'diagonalHatch')
+	.attr('patternUnits', 'userSpaceOnUse')
+	.attr('width', 4)
+	.attr('height', 4)
   .append('path')
-    .attr('d', 'M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2')
-    .attr('stroke', '#000000')
-    .attr('stroke-width', 1); */
+	.attr('d', 'M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2')
+	.attr('stroke', '#000000')
+	.attr('stroke-width', 1); */
 
-/* svg.append("rect")
-      .attr("x", 0)
-      .attr("width", 100)
-      .attr("height", 100)
-      .style("fill", 'yellow');
-
-svg.append("rect")
-    .attr("x", 0)
-    .attr("width", 100)
-    .attr("height", 100)
-    .attr('fill', 'url(#diagonalHatch)'); */
+	/* svg.append("rect")
+		  .attr("x", 0)
+		  .attr("width", 100)
+		  .attr("height", 100)
+		  .style("fill", 'yellow');
+	
+	svg.append("rect")
+		.attr("x", 0)
+		.attr("width", 100)
+		.attr("height", 100)
+		.attr('fill', 'url(#diagonalHatch)'); */
 	
 	var treemap =
-	svg.append("g")
-		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+		svg.append("g")
+			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 	
 	/* var treemap = d3
 	.select(element_id)
@@ -180,46 +185,45 @@ svg.append("rect")
 		.enter()
 		.append("a")
 		.attr("href", function (d) {
-		return d.data.href;
+			return d.data.href;
 		})
-		.attr("class", function (d) { 
+		.attr("class", function (d) {
 			return d.data.class
-		})	
+		})
 	rects.append("rect")
-	.attr("x", function (d) {
-		return d.x0;
-	})
-	.attr("y", function (d) {
-		return d.y0;
-	})
-	.attr("width", function (d) {
-		return d.x1 - d.x0;
-	})
-	.attr("height", function (d) {
-		return d.y1 - d.y0;
-	})
-	.style("stroke", "black")
-	.style("fill", function (d) {
-		return "white";
-	})
+		.attr("x", function (d) {
+			return d.x0;
+		})
+		.attr("y", function (d) {
+			return d.y0;
+		})
+		.attr("width", function (d) {
+			return d.x1 - d.x0;
+		})
+		.attr("height", function (d) {
+			return d.y1 - d.y0;
+		})
+		.style("stroke", "black")
+		.style("fill", function (d) {
+			return "white";
+		})
 	/* .on("click", function () {
 		addTreemap(ingredientArray, "#treemap")
- 		d3.event.stopPropagation();
+			d3.event.stopPropagation();
 	}); */
-	rects.append("rect")
-    .attr("x", function (d) {
-		return d.x0;
-	})
-	.attr("y", function (d) {
-		return d.y0;
-	})
-	.attr("width", function (d) {
-		return d.x1 - d.x0;
-	})
-	.attr("height", function (d) {
-		return d.y1 - d.y0;
-	})
-    .attr('fill', 'url(#diagonalHatch)');
+	/* rects.append("rect")
+		.attr("x", function (d) {
+			return d.x0;
+		})
+		.attr("y", function (d) {
+			return d.y0;
+		})
+		.attr("width", function (d) {
+			return d.x1 - d.x0;
+		})
+		.attr("height", function (d) {
+			return d.y1 - d.y0;
+		}) */
 	// .append("a").attr("href", "285609155383144226_38193-h-1.htm.xhtml#Cheese_Straws")
 	// and to add the text labels
 	treemap.selectAll("text")
@@ -228,10 +232,15 @@ svg.append("rect")
 		.append("text")
 		.attr("x", function (d) {
 			return d.x0 + 5;
-		}) // +10 to adjust position (more right)
+		}) // +5 to adjust position (more right)
 		.attr("y", function (d) {
 			return d.y0 + 20;
 		}) // +20 to adjust position (lower)
+		.attr("width", function (d) {
+			return d.x1 - d.x0;
+		})
+		.attr("class", "wrapme")
+		.attr("text-anchor", "start")
 		.text(function (d) {
 			return d.data.name;
 		})
@@ -239,13 +248,40 @@ svg.append("rect")
 		.attr("fill", "black");
 }
 
+function wrap(text) {
+    text.each(function() {
+        var text = d3.select(this);
+        var words = text.text().split(/\s+/).reverse();
+        var lineHeight = 20;
+        var width = parseFloat(text.attr('width'));
+        var y = parseFloat(text.attr('y'));
+        var x = text.attr('x');
+        var anchor = text.attr('text-anchor');
+    
+        var tspan = text.text(null).append('tspan').attr('x', x).attr('y', y).attr('text-anchor', anchor);
+        var lineNumber = 0;
+        var line = [];
+        var word = words.pop();
+
+        while (word) {
+            line.push(word);
+            tspan.text(line.join(' '));
+            if (tspan.node().getComputedTextLength() > width - 10) {
+                lineNumber += 1;
+                line.pop();
+                tspan.text(line.join(' '));
+                line = [word];
+                tspan = text.append('tspan').attr('x', x).attr('y', y + lineNumber * lineHeight).attr('anchor', anchor).text(word);
+            }
+            word = words.pop();
+        }
+    });
+}
+
 function addPatternToRows() {
 	var table = d3.select("#table");
-	console.log(table);
 	var rows = table.selectAll("tr")
-	console.log(rows);
 	var cells = rows.selectAll("td")
-	console.log(cells);
 
 	d3.selectAll("rect").attr("fill", "url(#diagonalHatch)");
 }
@@ -266,9 +302,11 @@ setTimeout(function () {
 	console.log(data);
 	for (const property in data) {
 		if (property === "List") { continue; }
-		d3.select("#table_of_contents").append("div").attr("id", "treemap_" + property);
+		//d3.select("#table_of_contents").append("div").attr("id", "treemap_" + property);
 		addTreemap(data[property], "#treemap_" + property);
 	}
+	// wrap text of all elements with class wrapme 
+	d3.selectAll(".wrapme").call(wrap);
 
 }, 2000);
 

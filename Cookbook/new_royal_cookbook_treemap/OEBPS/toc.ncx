@@ -30,6 +30,114 @@
       </navLabel>
       <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00001"/>
     </navPoint>
+    <navPoint id="toc_treemap" playOrder="534">
+      <navLabel>
+        <text>Treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemap"/>
+    </navPoint>
+    <navPoint id="toc_treemap_cakes" playOrder="535">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapcakes"/>
+    </navPoint>
+    <navPoint id="toc_treemap_cesserts" playOrder="536">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapdesserts"/>
+    </navPoint>
+    <navPoint id="toc_treemap_fritters" playOrder="537">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapfritters"/>
+    </navPoint>
+    <navPoint id="toc_treemap_pastry" playOrder="538">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemappastry"/>
+    </navPoint>
+    <navPoint id="toc_treemap_bread" playOrder="539">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapbread"/>
+    </navPoint>
+    <navPoint id="toc_treemap_sauces" playOrder="540">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapsauces"/>
+    </navPoint>
+    <navPoint id="toc_treemap_vegetables" playOrder="541">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapvegetables"/>
+    </navPoint>
+    <navPoint id="toc_treemap_beverages" playOrder="542">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapbeverages"/>
+    </navPoint>
+    <navPoint id="toc_treemap_soups" playOrder="543">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapsoups"/>
+    </navPoint>
+    <navPoint id="toc_treemap_meats" playOrder="544">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapmeats"/>
+    </navPoint>
+    <navPoint id="toc_treemap_canning" playOrder="545">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapcanning"/>
+    </navPoint>
+    <navPoint id="toc_treemap_pies" playOrder="546">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemappies"/>
+    </navPoint>
+    <navPoint id="toc_treemap_muffins" playOrder="547">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapmuffins"/>
+    </navPoint>
+    <navPoint id="toc_treemap_biscuits" playOrder="548">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapbiscuits"/>
+    </navPoint>
+    <navPoint id="toc_treemap_candies" playOrder="549">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapcandies"/>
+    </navPoint>
+    <navPoint id="toc_treemap_fish" playOrder="550">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapfish"/>
+    </navPoint>
+    <navPoint id="toc_treemap_croquettes" playOrder="551">
+      <navLabel>
+        <text>Cake treemap</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#treemapcroquettes"/>
+    </navPoint>
     <navPoint id="np-4" playOrder="334">
       <navLabel>
         <text>SOME SECRETS OF GOOD COOKING</text>
