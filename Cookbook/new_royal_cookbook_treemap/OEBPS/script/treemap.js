@@ -1,7 +1,7 @@
 // set the dimensions and margins of the graph
 var margin = { top: 10, right: 10, bottom: 10, left: 10 },
 	width = 505 - margin.left - margin.right,
-	height = 565 - margin.top - margin.bottom;
+	height = 535 - margin.top - margin.bottom;
 
 var ingredientArray = [];
 
@@ -35,7 +35,6 @@ function sortArrayByProperty(arrayToSort) {
 	const objectSortedByIngredient = arrayToSort.reduce(function (objectByIngredient, objectToReduce) {
 		if (objectToReduce.ingredient === "") {
 			return objectByIngredient;
-			objectToReduce.ingredient = "Miscellaneous";
 
 		};
 		
@@ -124,61 +123,23 @@ function addTreemap(treemap_data, element_id) {
 	treemapLayout.tile(d3.treemapSquarify.ratio(1.3));
 	treemapLayout(root);
 
-	var treemap_header = element_id.split("_")[1] || "Table of Contents"
+	var treemap_header = element_id.split("_")[1] 
+	if (treemap_header === "return") {
+		treemap_header = "Table of Contents";
+	}
 	d3.select(element_id)
-		.append("h2")
+		.insert("h2", "a")
 		.text(treemap_header);
 	
-	
-	if (element_id != "#treemap") {
-		d3.select(element_id)
-			.append("a")
-			.attr("href", "285609155383144226_38193-h-0.htm.xhtml#treemap")
-			.text("Return to Table of Contents")
-	}
 	var svg = d3
 		.select(element_id)
 		.append("svg")
 		.attr("width", width + margin.left + margin.right)
 		.attr("height", height + margin.top + margin.bottom)
-		//.attr("page-break-after", "always")
-	
-	/* svg
-  .append('defs')
-  .append('pattern')
-	.attr('id', 'diagonalHatch')
-	.attr('patternUnits', 'userSpaceOnUse')
-	.attr('width', 4)
-	.attr('height', 4)
-  .append('path')
-	.attr('d', 'M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2')
-	.attr('stroke', '#000000')
-	.attr('stroke-width', 1); */
-
-	/* svg.append("rect")
-		  .attr("x", 0)
-		  .attr("width", 100)
-		  .attr("height", 100)
-		  .style("fill", 'yellow');
-	
-	svg.append("rect")
-		.attr("x", 0)
-		.attr("width", 100)
-		.attr("height", 100)
-		.attr('fill', 'url(#diagonalHatch)'); */
 	
 	var treemap =
 		svg.append("g")
 			.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-	
-	/* var treemap = d3
-	.select(element_id)
-	.append("svg")
-	.attr("width", width + margin.left + margin.right)
-	.attr("height", height + margin.top + margin.bottom)
-	.attr("page-break-before", "always")
-	.append("g")
-	.attr("transform", "translate(" + margin.left + "," + margin.top + ")"); */
 	
 	var rects = treemap.selectAll("rect")
 		.data(root.leaves())
@@ -190,7 +151,9 @@ function addTreemap(treemap_data, element_id) {
 		.attr("class", function (d) {
 			return d.data.class
 		})
-	rects.append("rect")
+	
+	rects
+		.append("rect")
 		.attr("x", function (d) {
 			return d.x0;
 		})
@@ -207,25 +170,7 @@ function addTreemap(treemap_data, element_id) {
 		.style("fill", function (d) {
 			return "white";
 		})
-	/* .on("click", function () {
-		addTreemap(ingredientArray, "#treemap")
-			d3.event.stopPropagation();
-	}); */
-	/* rects.append("rect")
-		.attr("x", function (d) {
-			return d.x0;
-		})
-		.attr("y", function (d) {
-			return d.y0;
-		})
-		.attr("width", function (d) {
-			return d.x1 - d.x0;
-		})
-		.attr("height", function (d) {
-			return d.y1 - d.y0;
-		}) */
-	// .append("a").attr("href", "285609155383144226_38193-h-1.htm.xhtml#Cheese_Straws")
-	// and to add the text labels
+	
 	treemap.selectAll("text")
 		.data(root.leaves())
 		.enter()
@@ -278,43 +223,24 @@ function wrap(text) {
     });
 }
 
-function addPatternToRows() {
-	var table = d3.select("#table");
-	var rows = table.selectAll("tr")
-	var cells = rows.selectAll("td")
-
-	d3.selectAll("rect").attr("fill", "url(#diagonalHatch)");
-}
-
 var data = csvToArray(file2, ",");
 var ingredientArray = getIngredientArray(data);
 data = sortArrayByProperty(data);
+
+// wait 2 seconds before running the rest of the code
+// due to d3 for some reason loading later than the rest of the code causing error
 setTimeout(function () { 
-	// append the svg object to the body of the page
-	//var ingredientArray = getIngredientArray(data);
 
 	// sort it into an object by ingredient
-	console.log("IngredientArray:")
-	console.log(ingredientArray)
-	addTreemap(ingredientArray, "#treemap")
+	addTreemap(ingredientArray, "#treemap_return")
 
-
-	console.log(data);
 	for (const property in data) {
 		if (property === "List") { continue; }
-		//d3.select("#table_of_contents").append("div").attr("id", "treemap_" + property);
 		addTreemap(data[property], "#treemap_" + property);
 	}
 	// wrap text of all elements with class wrapme 
 	d3.selectAll(".wrapme").call(wrap);
 
 }, 2000);
-
-
-//addTreemap(data, "#treemap1");
-
-// Read data
-
-// use this information to add rectangles:
 
 
