@@ -1,0 +1,2655 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="http://www.gutenberg.org/38193"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Ebookmaker 0.12.30 by Project Gutenberg"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>New Royal Cook Book</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>The Project Gutenberg eBook of New Royal Cook Book</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pg-header-heading"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="112">
+      <navLabel>
+        <text>The New Royal Cook Book</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00000"/>
+    </navPoint>
+    <navPoint id="np-3" playOrder="223">
+      <navLabel>
+        <text>NEW ROYAL COOK BOOK—Index to Recipes</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00001"/>
+    </navPoint>
+    <navPoint id="np-4" playOrder="334">
+      <navLabel>
+        <text>SOME SECRETS OF GOOD COOKING</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00002"/>
+    </navPoint>
+    <navPoint id="np-5" playOrder="396">
+      <navLabel>
+        <text>Royal Baking Powder</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00004"/>
+    </navPoint>
+    <navPoint id="np-6" playOrder="418">
+      <navLabel>
+        <text>GENERAL SUGGESTIONS</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00006"/>
+      <navPoint id="np-7" playOrder="429">
+        <navLabel>
+          <text>MEASUREMENTS</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00007"/>
+      </navPoint>
+      <navPoint id="np-8" playOrder="2">
+        <navLabel>
+          <text>BAKING</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00008"/>
+      </navPoint>
+      <navPoint id="np-9" playOrder="13">
+        <navLabel>
+          <text>TABLE OF EQUIVALENT WEIGHTS AND MEASURES</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00009"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-10" playOrder="35">
+      <navLabel>
+        <text>Bread and Rolls</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00011"/>
+      <navPoint id="np-11" playOrder="46">
+        <navLabel>
+          <text>Royal Baking Powder Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00012"/>
+      </navPoint>
+      <navPoint id="np-12" playOrder="57">
+        <navLabel>
+          <text>Boston Brown Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00013"/>
+      </navPoint>
+      <navPoint id="np-13" playOrder="68">
+        <navLabel>
+          <text>Spider Corn Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00014"/>
+      </navPoint>
+      <navPoint id="np-14" playOrder="79">
+        <navLabel>
+          <text>Corn Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00015"/>
+      </navPoint>
+      <navPoint id="np-15" playOrder="90">
+        <navLabel>
+          <text>Corn and Rice Pone</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00016"/>
+      </navPoint>
+      <navPoint id="np-16" playOrder="101">
+        <navLabel>
+          <text>Graham Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00017"/>
+      </navPoint>
+      <navPoint id="np-17" playOrder="113">
+        <navLabel>
+          <text>Nut and Raisin Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00018"/>
+      </navPoint>
+      <navPoint id="np-18" playOrder="135">
+        <navLabel>
+          <text>Peanut Butter Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00020"/>
+      </navPoint>
+      <navPoint id="np-19" playOrder="146">
+        <navLabel>
+          <text>Prune or Date Bread</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00021"/>
+      </navPoint>
+      <navPoint id="np-20" playOrder="157">
+        <navLabel>
+          <text>Luncheon or Sandwich Rolls</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00022"/>
+      </navPoint>
+      <navPoint id="np-21" playOrder="168">
+        <navLabel>
+          <text>Rye Rolls</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00023"/>
+      </navPoint>
+      <navPoint id="np-22" playOrder="179">
+        <navLabel>
+          <text>Potato Rolls</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00024"/>
+      </navPoint>
+      <navPoint id="np-23" playOrder="190">
+        <navLabel>
+          <text>Nut and Raisin Rolls</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00025"/>
+      </navPoint>
+      <navPoint id="np-24" playOrder="212">
+        <navLabel>
+          <text>Parker House Rolls</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00027"/>
+      </navPoint>
+      <navPoint id="np-25" playOrder="224">
+        <navLabel>
+          <text>Rusks</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00028"/>
+      </navPoint>
+      <navPoint id="np-26" playOrder="235">
+        <navLabel>
+          <text>Royal Cinnamon Buns</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00029"/>
+      </navPoint>
+      <navPoint id="np-27" playOrder="246">
+        <navLabel>
+          <text>Brown Sugar Buns</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00030"/>
+      </navPoint>
+      <navPoint id="np-28" playOrder="257">
+        <navLabel>
+          <text>Coffee Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00031"/>
+      </navPoint>
+      <navPoint id="np-29" playOrder="268">
+        <navLabel>
+          <text>Royal Individual Coffee Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00032"/>
+      </navPoint>
+      <navPoint id="np-30" playOrder="290">
+        <navLabel>
+          <text>Raisin Tea Ring</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00034"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-31" playOrder="301">
+      <navLabel>
+        <text>Biscuits and Muffins</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00035"/>
+      <navPoint id="np-32" playOrder="312">
+        <navLabel>
+          <text>Biscuits</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00036"/>
+      </navPoint>
+      <navPoint id="np-33" playOrder="323">
+        <navLabel>
+          <text>Emergency or Drop Biscuits</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00037"/>
+      </navPoint>
+      <navPoint id="np-34" playOrder="335">
+        <navLabel>
+          <text>Whole Wheat or Health Biscuits</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00038"/>
+      </navPoint>
+      <navPoint id="np-35" playOrder="346">
+        <navLabel>
+          <text>Bran Biscuits</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00039"/>
+      </navPoint>
+      <navPoint id="np-36" playOrder="357">
+        <navLabel>
+          <text>Cheese Biscuits</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00040"/>
+      </navPoint>
+      <navPoint id="np-37" playOrder="368">
+        <navLabel>
+          <text>Tea Biscuits</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00041"/>
+      </navPoint>
+      <navPoint id="np-38" playOrder="379">
+        <navLabel>
+          <text>Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00042"/>
+      </navPoint>
+      <navPoint id="np-39" playOrder="381">
+        <navLabel>
+          <text>Blueberry or Huckleberry Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00044"/>
+      </navPoint>
+      <navPoint id="np-40" playOrder="382">
+        <navLabel>
+          <text>Cereal Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00045"/>
+      </navPoint>
+      <navPoint id="np-41" playOrder="383">
+        <navLabel>
+          <text>Corn Meal Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00046"/>
+      </navPoint>
+      <navPoint id="np-42" playOrder="384">
+        <navLabel>
+          <text>Crumb Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00047"/>
+      </navPoint>
+      <navPoint id="np-43" playOrder="386">
+        <navLabel>
+          <text>Rice Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00048"/>
+      </navPoint>
+      <navPoint id="np-44" playOrder="387">
+        <navLabel>
+          <text>Date Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00049"/>
+      </navPoint>
+      <navPoint id="np-45" playOrder="388">
+        <navLabel>
+          <text>Scones</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00050"/>
+      </navPoint>
+      <navPoint id="np-46" playOrder="389">
+        <navLabel>
+          <text>Currant Tea Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00051"/>
+      </navPoint>
+      <navPoint id="np-47" playOrder="391">
+        <navLabel>
+          <text>Popovers</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00053"/>
+      </navPoint>
+      <navPoint id="np-48" playOrder="392">
+        <navLabel>
+          <text>Graham Gems</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00054"/>
+      </navPoint>
+      <navPoint id="np-49" playOrder="393">
+        <navLabel>
+          <text>Green Corn Gems</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00055"/>
+      </navPoint>
+      <navPoint id="np-50" playOrder="394">
+        <navLabel>
+          <text>Fig Envelopes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00056"/>
+      </navPoint>
+      <navPoint id="np-51" playOrder="395">
+        <navLabel>
+          <text>Sally Lunn</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00057"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-52" playOrder="397">
+      <navLabel>
+        <text>Griddle Cakes and Waffles</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00058"/>
+      <navPoint id="np-53" playOrder="398">
+        <navLabel>
+          <text>Royal Hot Griddle Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00059"/>
+      </navPoint>
+      <navPoint id="np-54" playOrder="399">
+        <navLabel>
+          <text>Griddle Cakes with Eggs</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00060"/>
+      </navPoint>
+      <navPoint id="np-55" playOrder="400">
+        <navLabel>
+          <text>Buckwheat Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00061"/>
+      </navPoint>
+      <navPoint id="np-56" playOrder="402">
+        <navLabel>
+          <text>Corn Meal Griddle Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00063"/>
+      </navPoint>
+      <navPoint id="np-57" playOrder="403">
+        <navLabel>
+          <text>Rice Griddle Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00064"/>
+      </navPoint>
+      <navPoint id="np-58" playOrder="404">
+        <navLabel>
+          <text>French Pancakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00065"/>
+      </navPoint>
+      <navPoint id="np-59" playOrder="405">
+        <navLabel>
+          <text>Whole Wheat Hot Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00066"/>
+      </navPoint>
+      <navPoint id="np-60" playOrder="406">
+        <navLabel>
+          <text>Waffles</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00067"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-61" playOrder="408">
+      <navLabel>
+        <text>Fritters</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00068"/>
+      <navPoint id="np-62" playOrder="409">
+        <navLabel>
+          <text>Plain Fritter Batter</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00069"/>
+      </navPoint>
+      <navPoint id="np-63" playOrder="410">
+        <navLabel>
+          <text>Apple Fritters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00070"/>
+      </navPoint>
+      <navPoint id="np-64" playOrder="411">
+        <navLabel>
+          <text>Fruit Fritters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00071"/>
+      </navPoint>
+      <navPoint id="np-65" playOrder="413">
+        <navLabel>
+          <text>Banana Fritters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00073"/>
+      </navPoint>
+      <navPoint id="np-66" playOrder="414">
+        <navLabel>
+          <text>Corn Fritters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00074"/>
+      </navPoint>
+      <navPoint id="np-67" playOrder="415">
+        <navLabel>
+          <text>Clam Fritters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00075"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-68" playOrder="416">
+      <navLabel>
+        <text>Cake</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00076"/>
+      <navPoint id="np-69" playOrder="417">
+        <navLabel>
+          <text>Plain Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00077"/>
+      </navPoint>
+      <navPoint id="np-70" playOrder="419">
+        <navLabel>
+          <text>Sunshine Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00078"/>
+      </navPoint>
+      <navPoint id="np-71" playOrder="420">
+        <navLabel>
+          <text>Three-Egg Angel Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00079"/>
+      </navPoint>
+      <navPoint id="np-72" playOrder="422">
+        <navLabel>
+          <text>Angel Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00081"/>
+      </navPoint>
+      <navPoint id="np-73" playOrder="423">
+        <navLabel>
+          <text>Spanish Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00082"/>
+      </navPoint>
+      <navPoint id="np-74" playOrder="424">
+        <navLabel>
+          <text>Bride's Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00083"/>
+      </navPoint>
+      <navPoint id="np-75" playOrder="425">
+        <navLabel>
+          <text>Eggless, Milkless, Butterless Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00084"/>
+      </navPoint>
+      <navPoint id="np-76" playOrder="426">
+        <navLabel>
+          <text>Chocolate Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00085"/>
+      </navPoint>
+      <navPoint id="np-77" playOrder="427">
+        <navLabel>
+          <text>Pound Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00086"/>
+      </navPoint>
+      <navPoint id="np-78" playOrder="430">
+        <navLabel>
+          <text>Rich Fruit Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00088"/>
+      </navPoint>
+      <navPoint id="np-79" playOrder="431">
+        <navLabel>
+          <text>Coffee Fruit Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00089"/>
+      </navPoint>
+      <navPoint id="np-80" playOrder="432">
+        <navLabel>
+          <text>Royal Date Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00090"/>
+      </navPoint>
+      <navPoint id="np-81" playOrder="433">
+        <navLabel>
+          <text>Royal Cream Loaf Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00091"/>
+      </navPoint>
+      <navPoint id="np-82" playOrder="434">
+        <navLabel>
+          <text>Maple Nut Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00092"/>
+      </navPoint>
+      <navPoint id="np-83" playOrder="435">
+        <navLabel>
+          <text>Soft Molasses Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00093"/>
+      </navPoint>
+      <navPoint id="np-84" playOrder="437">
+        <navLabel>
+          <text>Fairmount Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00095"/>
+      </navPoint>
+      <navPoint id="np-85" playOrder="438">
+        <navLabel>
+          <text>Marble Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00096"/>
+      </navPoint>
+      <navPoint id="np-86" playOrder="439">
+        <navLabel>
+          <text>Marble Cake II</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00097"/>
+      </navPoint>
+      <navPoint id="np-87" playOrder="3">
+        <navLabel>
+          <text>Feather Cocoanut Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00098"/>
+      </navPoint>
+      <navPoint id="np-88" playOrder="4">
+        <navLabel>
+          <text>Chocolate Layer Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00099"/>
+      </navPoint>
+      <navPoint id="np-89" playOrder="5">
+        <navLabel>
+          <text>Orange Layer Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00100"/>
+      </navPoint>
+      <navPoint id="np-90" playOrder="7">
+        <navLabel>
+          <text>White Layer Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00102"/>
+      </navPoint>
+      <navPoint id="np-91" playOrder="8">
+        <navLabel>
+          <text>Devil's Food Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00103"/>
+      </navPoint>
+      <navPoint id="np-92" playOrder="9">
+        <navLabel>
+          <text>Cream Layer Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00104"/>
+      </navPoint>
+      <navPoint id="np-93" playOrder="10">
+        <navLabel>
+          <text>Cocoanut Layer Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00105"/>
+      </navPoint>
+      <navPoint id="np-94" playOrder="12">
+        <navLabel>
+          <text>Maple Layer Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00107"/>
+      </navPoint>
+      <navPoint id="np-95" playOrder="14">
+        <navLabel>
+          <text>Fruit Layer Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00108"/>
+      </navPoint>
+      <navPoint id="np-96" playOrder="15">
+        <navLabel>
+          <text>Lady Baltimore Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00109"/>
+      </navPoint>
+      <navPoint id="np-97" playOrder="16">
+        <navLabel>
+          <text>Sponge Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00110"/>
+      </navPoint>
+      <navPoint id="np-98" playOrder="17">
+        <navLabel>
+          <text>Royal Sponge Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00111"/>
+      </navPoint>
+      <navPoint id="np-99" playOrder="19">
+        <navLabel>
+          <text>Milk Sponge Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00113"/>
+      </navPoint>
+      <navPoint id="np-100" playOrder="20">
+        <navLabel>
+          <text>Coffee Spice Cake with Mocha Filling</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00114"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-101" playOrder="21">
+      <navLabel>
+        <text>Icings and Fillings</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00115"/>
+      <navPoint id="np-102" playOrder="22">
+        <navLabel>
+          <text>Boiled Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00116"/>
+      </navPoint>
+      <navPoint id="np-103" playOrder="23">
+        <navLabel>
+          <text>Frosting</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00117"/>
+      </navPoint>
+      <navPoint id="np-104" playOrder="25">
+        <navLabel>
+          <text>Ornamental Frosting</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00118"/>
+      </navPoint>
+      <navPoint id="np-105" playOrder="26">
+        <navLabel>
+          <text>White or Colored Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00119"/>
+      </navPoint>
+      <navPoint id="np-106" playOrder="27">
+        <navLabel>
+          <text>Seven Minute Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00120"/>
+      </navPoint>
+      <navPoint id="np-107" playOrder="28">
+        <navLabel>
+          <text>Chocolate Filling and Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00121"/>
+      </navPoint>
+      <navPoint id="np-108" playOrder="30">
+        <navLabel>
+          <text>Old-Fashioned Chocolate Filling</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00123"/>
+      </navPoint>
+      <navPoint id="np-109" playOrder="31">
+        <navLabel>
+          <text>Soft Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00124"/>
+      </navPoint>
+      <navPoint id="np-110" playOrder="32">
+        <navLabel>
+          <text>Marshmallow Filling and Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00125"/>
+      </navPoint>
+      <navPoint id="np-111" playOrder="33">
+        <navLabel>
+          <text>Fruit Filling</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00126"/>
+      </navPoint>
+      <navPoint id="np-112" playOrder="34">
+        <navLabel>
+          <text>Fresh Strawberry Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00127"/>
+      </navPoint>
+      <navPoint id="np-113" playOrder="36">
+        <navLabel>
+          <text>Maple Icing. I</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00128"/>
+      </navPoint>
+      <navPoint id="np-114" playOrder="37">
+        <navLabel>
+          <text>Maple Icing. II</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00129"/>
+      </navPoint>
+      <navPoint id="np-115" playOrder="38">
+        <navLabel>
+          <text>Orange Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00130"/>
+      </navPoint>
+      <navPoint id="np-116" playOrder="39">
+        <navLabel>
+          <text>Jelly Meringue</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00131"/>
+      </navPoint>
+      <navPoint id="np-117" playOrder="40">
+        <navLabel>
+          <text>Sea Foam Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00132"/>
+      </navPoint>
+      <navPoint id="np-118" playOrder="41">
+        <navLabel>
+          <text>Cocoa Icing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00133"/>
+      </navPoint>
+      <navPoint id="np-119" playOrder="43">
+        <navLabel>
+          <text>Brown Sugar Icing and Filling</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00135"/>
+      </navPoint>
+      <navPoint id="np-120" playOrder="44">
+        <navLabel>
+          <text>Butter Scotch Icing and Filling (Without Sugar)</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00136"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-121" playOrder="45">
+      <navLabel>
+        <text>Cookies and Small Cakes</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00137"/>
+      <navPoint id="np-122" playOrder="47">
+        <navLabel>
+          <text>Cocoa Drop Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00138"/>
+      </navPoint>
+      <navPoint id="np-123" playOrder="48">
+        <navLabel>
+          <text>Raisin Drop Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00139"/>
+      </navPoint>
+      <navPoint id="np-124" playOrder="49">
+        <navLabel>
+          <text>Orange Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00140"/>
+      </navPoint>
+      <navPoint id="np-125" playOrder="50">
+        <navLabel>
+          <text>Spice Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00141"/>
+      </navPoint>
+      <navPoint id="np-126" playOrder="51">
+        <navLabel>
+          <text>Honey Drop Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00142"/>
+      </navPoint>
+      <navPoint id="np-127" playOrder="53">
+        <navLabel>
+          <text>Molasses Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00144"/>
+      </navPoint>
+      <navPoint id="np-128" playOrder="54">
+        <navLabel>
+          <text>Small Fancy Cakes. I</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00145"/>
+      </navPoint>
+      <navPoint id="np-129" playOrder="55">
+        <navLabel>
+          <text>Small Fancy Cakes. II</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00146"/>
+      </navPoint>
+      <navPoint id="np-130" playOrder="56">
+        <navLabel>
+          <text>Cookies</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00147"/>
+      </navPoint>
+      <navPoint id="np-131" playOrder="58">
+        <navLabel>
+          <text>Cocoa Cookies</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00148"/>
+      </navPoint>
+      <navPoint id="np-132" playOrder="59">
+        <navLabel>
+          <text>Cocoanut Cookies</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00149"/>
+      </navPoint>
+      <navPoint id="np-133" playOrder="61">
+        <navLabel>
+          <text>Filled Cookies</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00151"/>
+      </navPoint>
+      <navPoint id="np-134" playOrder="62">
+        <navLabel>
+          <text>Marshmallow Cookies</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00152"/>
+      </navPoint>
+      <navPoint id="np-135" playOrder="63">
+        <navLabel>
+          <text>Fudge Squares</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00153"/>
+      </navPoint>
+      <navPoint id="np-136" playOrder="64">
+        <navLabel>
+          <text>Oatmeal Macaroons</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00154"/>
+      </navPoint>
+      <navPoint id="np-137" playOrder="65">
+        <navLabel>
+          <text>Hermits</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00155"/>
+      </navPoint>
+      <navPoint id="np-138" playOrder="66">
+        <navLabel>
+          <text>Nut Bars</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00156"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-139" playOrder="67">
+      <navLabel>
+        <text>Fruit Shortcakes</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00157"/>
+      <navPoint id="np-140" playOrder="70">
+        <navLabel>
+          <text>Old-Fashioned Shortcake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00159"/>
+      </navPoint>
+      <navPoint id="np-141" playOrder="71">
+        <navLabel>
+          <text>Strawberry Shortcake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00160"/>
+      </navPoint>
+      <navPoint id="np-142" playOrder="72">
+        <navLabel>
+          <text>Royal Strawberry Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00161"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-143" playOrder="73">
+      <navLabel>
+        <text>Doughnuts</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00162"/>
+      <navPoint id="np-144" playOrder="74">
+        <navLabel>
+          <text>Doughnuts</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00163"/>
+      </navPoint>
+      <navPoint id="np-145" playOrder="75">
+        <navLabel>
+          <text>Afternoon Tea doughnuts</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00164"/>
+      </navPoint>
+      <navPoint id="np-146" playOrder="76">
+        <navLabel>
+          <text>Crullers</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00165"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-147" playOrder="78">
+      <navLabel>
+        <text>Puddings and Other Desserts</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00167"/>
+      <navPoint id="np-148" playOrder="80">
+        <navLabel>
+          <text>Baked Custard</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00168"/>
+      </navPoint>
+      <navPoint id="np-149" playOrder="81">
+        <navLabel>
+          <text>Rice Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00169"/>
+      </navPoint>
+      <navPoint id="np-150" playOrder="82">
+        <navLabel>
+          <text>Cottage Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00170"/>
+      </navPoint>
+      <navPoint id="np-151" playOrder="83">
+        <navLabel>
+          <text>Tapioca Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00171"/>
+      </navPoint>
+      <navPoint id="np-152" playOrder="84">
+        <navLabel>
+          <text>Poor Man's Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00172"/>
+      </navPoint>
+      <navPoint id="np-153" playOrder="85">
+        <navLabel>
+          <text>Apple Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00173"/>
+      </navPoint>
+      <navPoint id="np-154" playOrder="86">
+        <navLabel>
+          <text>Apple Dumplings</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00174"/>
+      </navPoint>
+      <navPoint id="np-155" playOrder="88">
+        <navLabel>
+          <text>Apple Roll</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00176"/>
+      </navPoint>
+      <navPoint id="np-156" playOrder="89">
+        <navLabel>
+          <text>Meringues</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00177"/>
+      </navPoint>
+      <navPoint id="np-157" playOrder="91">
+        <navLabel>
+          <text>Banana Cake with Jelly Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00178"/>
+      </navPoint>
+      <navPoint id="np-158" playOrder="92">
+        <navLabel>
+          <text>Charlotte Russe</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00179"/>
+      </navPoint>
+      <navPoint id="np-159" playOrder="93">
+        <navLabel>
+          <text>Boston Cream Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00180"/>
+      </navPoint>
+      <navPoint id="np-160" playOrder="94">
+        <navLabel>
+          <text>Blueberry Cake</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00181"/>
+      </navPoint>
+      <navPoint id="np-161" playOrder="96">
+        <navLabel>
+          <text>Chocolate Blanc Mange</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00183"/>
+      </navPoint>
+      <navPoint id="np-162" playOrder="97">
+        <navLabel>
+          <text>Floating Island</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00184"/>
+      </navPoint>
+      <navPoint id="np-163" playOrder="98">
+        <navLabel>
+          <text>Huckleberry or Blueberry Float</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00185"/>
+      </navPoint>
+      <navPoint id="np-164" playOrder="99">
+        <navLabel>
+          <text>Christmas Plum Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00186"/>
+      </navPoint>
+      <navPoint id="np-165" playOrder="100">
+        <navLabel>
+          <text>Cream Puffs</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00187"/>
+      </navPoint>
+      <navPoint id="np-166" playOrder="103">
+        <navLabel>
+          <text>Steamed Fig Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00189"/>
+      </navPoint>
+      <navPoint id="np-167" playOrder="104">
+        <navLabel>
+          <text>Prune Puff</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00190"/>
+      </navPoint>
+      <navPoint id="np-168" playOrder="105">
+        <navLabel>
+          <text>Lemon Jelly</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00191"/>
+      </navPoint>
+      <navPoint id="np-169" playOrder="106">
+        <navLabel>
+          <text>Jelly Roll</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00192"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-170" playOrder="107">
+      <navLabel>
+        <text>Pudding Sauces</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00193"/>
+      <navPoint id="np-171" playOrder="108">
+        <navLabel>
+          <text>Hard Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00194"/>
+      </navPoint>
+      <navPoint id="np-172" playOrder="109">
+        <navLabel>
+          <text>Foamy Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00195"/>
+      </navPoint>
+      <navPoint id="np-173" playOrder="110">
+        <navLabel>
+          <text>Chocolate Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00196"/>
+      </navPoint>
+      <navPoint id="np-174" playOrder="111">
+        <navLabel>
+          <text>Maple Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00197"/>
+      </navPoint>
+      <navPoint id="np-175" playOrder="115">
+        <navLabel>
+          <text>Lemon or Orange Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00199"/>
+      </navPoint>
+      <navPoint id="np-176" playOrder="116">
+        <navLabel>
+          <text>Fruit Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00200"/>
+      </navPoint>
+      <navPoint id="np-177" playOrder="117">
+        <navLabel>
+          <text>Caramel Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00201"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-178" playOrder="118">
+      <navLabel>
+        <text>Pastry and Pies</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00202"/>
+      <navPoint id="np-179" playOrder="119">
+        <navLabel>
+          <text>Plain Pastry</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00203"/>
+      </navPoint>
+      <navPoint id="np-180" playOrder="120">
+        <navLabel>
+          <text>Rich Pastry</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00204"/>
+      </navPoint>
+      <navPoint id="np-181" playOrder="121">
+        <navLabel>
+          <text>Apple Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00205"/>
+      </navPoint>
+      <navPoint id="np-182" playOrder="122">
+        <navLabel>
+          <text>Lemon Meringue Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00206"/>
+      </navPoint>
+      <navPoint id="np-183" playOrder="125">
+        <navLabel>
+          <text>Strawberry Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00208"/>
+      </navPoint>
+      <navPoint id="np-184" playOrder="126">
+        <navLabel>
+          <text>Mince Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00209"/>
+      </navPoint>
+      <navPoint id="np-185" playOrder="127">
+        <navLabel>
+          <text>Mince Meat</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00210"/>
+      </navPoint>
+      <navPoint id="np-186" playOrder="128">
+        <navLabel>
+          <text>Custard Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00211"/>
+      </navPoint>
+      <navPoint id="np-187" playOrder="129">
+        <navLabel>
+          <text>Pumpkin Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00212"/>
+      </navPoint>
+      <navPoint id="np-188" playOrder="130">
+        <navLabel>
+          <text>Rhubarb Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00213"/>
+      </navPoint>
+      <navPoint id="np-189" playOrder="131">
+        <navLabel>
+          <text>Berry Pies</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00214"/>
+      </navPoint>
+      <navPoint id="np-190" playOrder="133">
+        <navLabel>
+          <text>Cherry Tarts</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00216"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-191" playOrder="134">
+      <navLabel>
+        <text>Frozen Desserts</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00217"/>
+      <navPoint id="np-192" playOrder="136">
+        <navLabel>
+          <text>How to Freeze</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00218"/>
+      </navPoint>
+      <navPoint id="np-193" playOrder="137">
+        <navLabel>
+          <text>Philadelphia Ice Cream</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00219"/>
+      </navPoint>
+      <navPoint id="np-194" playOrder="138">
+        <navLabel>
+          <text>Strawberry Ice Cream</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00220"/>
+      </navPoint>
+      <navPoint id="np-195" playOrder="139">
+        <navLabel>
+          <text>Chocolate Ice Cream</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00221"/>
+      </navPoint>
+      <navPoint id="np-196" playOrder="140">
+        <navLabel>
+          <text>French Ice Cream</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00222"/>
+      </navPoint>
+      <navPoint id="np-197" playOrder="141">
+        <navLabel>
+          <text>Frozen Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00223"/>
+      </navPoint>
+      <navPoint id="np-198" playOrder="142">
+        <navLabel>
+          <text>Grape Sherbet</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00224"/>
+      </navPoint>
+      <navPoint id="np-199" playOrder="143">
+        <navLabel>
+          <text>Lemon Sherbet</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00225"/>
+      </navPoint>
+      <navPoint id="np-200" playOrder="145">
+        <navLabel>
+          <text>Orange Water Ice</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00227"/>
+      </navPoint>
+      <navPoint id="np-201" playOrder="147">
+        <navLabel>
+          <text>Strawberry Mousse</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00228"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-202" playOrder="148">
+      <navLabel>
+        <text>Soups</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00229"/>
+      <navPoint id="np-203" playOrder="149">
+        <navLabel>
+          <text>Brown Soup Stock</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00230"/>
+      </navPoint>
+      <navPoint id="np-204" playOrder="150">
+        <navLabel>
+          <text>Bean Soup</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00231"/>
+      </navPoint>
+      <navPoint id="np-205" playOrder="151">
+        <navLabel>
+          <text>Cream Soups</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00232"/>
+      </navPoint>
+      <navPoint id="np-206" playOrder="153">
+        <navLabel>
+          <text>Creole Soup</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00234"/>
+      </navPoint>
+      <navPoint id="np-207" playOrder="154">
+        <navLabel>
+          <text>Cream of Tomato Soup</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00235"/>
+      </navPoint>
+      <navPoint id="np-208" playOrder="155">
+        <navLabel>
+          <text>Onion Soup</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00236"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-209" playOrder="156">
+      <navLabel>
+        <text>Fish</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00237"/>
+      <navPoint id="np-210" playOrder="158">
+        <navLabel>
+          <text>Broiled Fish</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00238"/>
+      </navPoint>
+      <navPoint id="np-211" playOrder="159">
+        <navLabel>
+          <text>Baked Fish</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00239"/>
+      </navPoint>
+      <navPoint id="np-212" playOrder="160">
+        <navLabel>
+          <text>Fried Fish</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00240"/>
+      </navPoint>
+      <navPoint id="np-213" playOrder="161">
+        <navLabel>
+          <text>Planked Fish</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00241"/>
+      </navPoint>
+      <navPoint id="np-214" playOrder="162">
+        <navLabel>
+          <text>Codfish Balls</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00242"/>
+      </navPoint>
+      <navPoint id="np-215" playOrder="164">
+        <navLabel>
+          <text>Fish Chowder</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00244"/>
+      </navPoint>
+      <navPoint id="np-216" playOrder="165">
+        <navLabel>
+          <text>Boiled Lobsters or Crabs</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00245"/>
+      </navPoint>
+      <navPoint id="np-217" playOrder="166">
+        <navLabel>
+          <text>Creamed Oysters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00246"/>
+      </navPoint>
+      <navPoint id="np-218" playOrder="167">
+        <navLabel>
+          <text>Scalloped Oysters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00247"/>
+      </navPoint>
+      <navPoint id="np-219" playOrder="169">
+        <navLabel>
+          <text>Fried Oysters</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00248"/>
+      </navPoint>
+      <navPoint id="np-220" playOrder="170">
+        <navLabel>
+          <text>Clam Chowder</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00249"/>
+      </navPoint>
+      <navPoint id="np-221" playOrder="171">
+        <navLabel>
+          <text>Shell Fish a la Newburg</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00250"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-222" playOrder="173">
+      <navLabel>
+        <text>Meats</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00252"/>
+      <navPoint id="np-223" playOrder="174">
+        <navLabel>
+          <text>Roasting</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00253"/>
+      </navPoint>
+      <navPoint id="np-224" playOrder="175">
+        <navLabel>
+          <text>Broiling</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00254"/>
+      </navPoint>
+      <navPoint id="np-225" playOrder="176">
+        <navLabel>
+          <text>Pan Broiling or Frying</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00255"/>
+      </navPoint>
+      <navPoint id="np-226" playOrder="177">
+        <navLabel>
+          <text>Boiling and Stewing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00256"/>
+      </navPoint>
+      <navPoint id="np-227" playOrder="178">
+        <navLabel>
+          <text>Pot Roasting</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00257"/>
+      </navPoint>
+      <navPoint id="np-228" playOrder="180">
+        <navLabel>
+          <text>Stew with Dumplings</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00258"/>
+      </navPoint>
+      <navPoint id="np-229" playOrder="181">
+        <navLabel>
+          <text>Liver and Bacon</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00259"/>
+      </navPoint>
+      <navPoint id="np-230" playOrder="183">
+        <navLabel>
+          <text>Roast Lamb</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00261"/>
+      </navPoint>
+      <navPoint id="np-231" playOrder="184">
+        <navLabel>
+          <text>Roast Stuffed Shoulder of Lamb with Browned Potatoes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00262"/>
+      </navPoint>
+      <navPoint id="np-232" playOrder="185">
+        <navLabel>
+          <text>Pot Roast of Beef with Browned Potatoes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00263"/>
+      </navPoint>
+      <navPoint id="np-233" playOrder="186">
+        <navLabel>
+          <text>Baked Veal with Tomato Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00264"/>
+      </navPoint>
+      <navPoint id="np-234" playOrder="187">
+        <navLabel>
+          <text>Veal Cutlet</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00265"/>
+      </navPoint>
+      <navPoint id="np-235" playOrder="188">
+        <navLabel>
+          <text>Roast Loin of Pork</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00266"/>
+      </navPoint>
+      <navPoint id="np-236" playOrder="189">
+        <navLabel>
+          <text>Apple Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00267"/>
+      </navPoint>
+      <navPoint id="np-237" playOrder="191">
+        <navLabel>
+          <text>Baked Ham</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00268"/>
+      </navPoint>
+      <navPoint id="np-238" playOrder="193">
+        <navLabel>
+          <text>Creamed Sweetbreads</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00270"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-239" playOrder="194">
+      <navLabel>
+        <text>Poultry</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00271"/>
+      <navPoint id="np-240" playOrder="195">
+        <navLabel>
+          <text>How to Clean</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00272"/>
+      </navPoint>
+      <navPoint id="np-241" playOrder="196">
+        <navLabel>
+          <text>Roast Poultry</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00273"/>
+      </navPoint>
+      <navPoint id="np-242" playOrder="197">
+        <navLabel>
+          <text>Poultry Dressing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00274"/>
+      </navPoint>
+      <navPoint id="np-243" playOrder="198">
+        <navLabel>
+          <text>Oyster Dressing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00275"/>
+      </navPoint>
+      <navPoint id="np-244" playOrder="199">
+        <navLabel>
+          <text>Giblet Gravy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00276"/>
+      </navPoint>
+      <navPoint id="np-245" playOrder="200">
+        <navLabel>
+          <text>Fricassee of Chicken</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00277"/>
+      </navPoint>
+      <navPoint id="np-246" playOrder="203">
+        <navLabel>
+          <text>Fried Chicken</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00279"/>
+      </navPoint>
+      <navPoint id="np-247" playOrder="204">
+        <navLabel>
+          <text>Chicken Pie</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00280"/>
+      </navPoint>
+      <navPoint id="np-248" playOrder="205">
+        <navLabel>
+          <text>Roast Goose, Bread and Apple Dressing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00281"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-249" playOrder="206">
+      <navLabel>
+        <text>Fish, Meat and Vegetable Sauces</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00282"/>
+      <navPoint id="np-250" playOrder="207">
+        <navLabel>
+          <text>Thin Cream Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00283"/>
+      </navPoint>
+      <navPoint id="np-251" playOrder="208">
+        <navLabel>
+          <text>Thick Cream Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00284"/>
+      </navPoint>
+      <navPoint id="np-252" playOrder="209">
+        <navLabel>
+          <text>Tomato Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00285"/>
+      </navPoint>
+      <navPoint id="np-253" playOrder="210">
+        <navLabel>
+          <text>Bechamel Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00286"/>
+      </navPoint>
+      <navPoint id="np-254" playOrder="213">
+        <navLabel>
+          <text>Egg Sauce (For Fish)</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00288"/>
+      </navPoint>
+      <navPoint id="np-255" playOrder="214">
+        <navLabel>
+          <text>Brown Sauce or Gravy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00289"/>
+      </navPoint>
+      <navPoint id="np-256" playOrder="215">
+        <navLabel>
+          <text>Currant Jelly Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00290"/>
+      </navPoint>
+      <navPoint id="np-257" playOrder="216">
+        <navLabel>
+          <text>Hollandaise Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00291"/>
+      </navPoint>
+      <navPoint id="np-258" playOrder="217">
+        <navLabel>
+          <text>Sauce Tartare</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00292"/>
+      </navPoint>
+      <navPoint id="np-259" playOrder="218">
+        <navLabel>
+          <text>Maitre D'Hotel Butter</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00293"/>
+      </navPoint>
+      <navPoint id="np-260" playOrder="219">
+        <navLabel>
+          <text>Mint Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00294"/>
+      </navPoint>
+      <navPoint id="np-261" playOrder="220">
+        <navLabel>
+          <text>Horse-Radish Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00295"/>
+      </navPoint>
+      <navPoint id="np-262" playOrder="221">
+        <navLabel>
+          <text>Cranberry Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00296"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-263" playOrder="222">
+      <navLabel>
+        <text>Eggs</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00297"/>
+      <navPoint id="np-264" playOrder="225">
+        <navLabel>
+          <text>Boiled Eggs</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00298"/>
+      </navPoint>
+      <navPoint id="np-265" playOrder="226">
+        <navLabel>
+          <text>Poached Eggs</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00299"/>
+      </navPoint>
+      <navPoint id="np-266" playOrder="227">
+        <navLabel>
+          <text>Poached Eggs in Cream</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00300"/>
+      </navPoint>
+      <navPoint id="np-267" playOrder="228">
+        <navLabel>
+          <text>Scrambled Eggs</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00301"/>
+      </navPoint>
+      <navPoint id="np-268" playOrder="230">
+        <navLabel>
+          <text>Scalloped Eggs with Ham</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00303"/>
+      </navPoint>
+      <navPoint id="np-269" playOrder="231">
+        <navLabel>
+          <text>Plain Omelet</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00304"/>
+      </navPoint>
+      <navPoint id="np-270" playOrder="232">
+        <navLabel>
+          <text>Puffy Omelet</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00305"/>
+      </navPoint>
+      <navPoint id="np-271" playOrder="233">
+        <navLabel>
+          <text>Fancy Omelets</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00306"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-272" playOrder="234">
+      <navLabel>
+        <text>Croquettes</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00307"/>
+      <navPoint id="np-273" playOrder="236">
+        <navLabel>
+          <text>Salmon Croquettes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00308"/>
+      </navPoint>
+      <navPoint id="np-274" playOrder="237">
+        <navLabel>
+          <text>Rice Croquettes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00309"/>
+      </navPoint>
+      <navPoint id="np-275" playOrder="238">
+        <navLabel>
+          <text>Nut and Potato Croquettes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00310"/>
+      </navPoint>
+      <navPoint id="np-276" playOrder="239">
+        <navLabel>
+          <text>Chicken Croquettes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00311"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-277" playOrder="241">
+      <navLabel>
+        <text>Luncheon Dishes</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00313"/>
+      <navPoint id="np-278" playOrder="242">
+        <navLabel>
+          <text>Chicken Patties</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00314"/>
+      </navPoint>
+      <navPoint id="np-279" playOrder="243">
+        <navLabel>
+          <text>Boston Baked Beans</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00315"/>
+      </navPoint>
+      <navPoint id="np-280" playOrder="244">
+        <navLabel>
+          <text>Baked Macaroni with Cheese</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00316"/>
+      </navPoint>
+      <navPoint id="np-281" playOrder="245">
+        <navLabel>
+          <text>Cheese in Scallop Shells or Ramekins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00317"/>
+      </navPoint>
+      <navPoint id="np-282" playOrder="247">
+        <navLabel>
+          <text>Cheese Straws</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00318"/>
+      </navPoint>
+      <navPoint id="np-283" playOrder="248">
+        <navLabel>
+          <text>Kidney Beans with Bacon</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00319"/>
+      </navPoint>
+      <navPoint id="np-284" playOrder="249">
+        <navLabel>
+          <text>Tomatoes and Eggs</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00320"/>
+      </navPoint>
+      <navPoint id="np-285" playOrder="251">
+        <navLabel>
+          <text>Corn Pudding</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00322"/>
+      </navPoint>
+      <navPoint id="np-286" playOrder="252">
+        <navLabel>
+          <text>Scotch Potatoes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00323"/>
+      </navPoint>
+      <navPoint id="np-287" playOrder="253">
+        <navLabel>
+          <text>French Toast</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00324"/>
+      </navPoint>
+      <navPoint id="np-288" playOrder="254">
+        <navLabel>
+          <text>Cheese Souffle</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00325"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-289" playOrder="255">
+      <navLabel>
+        <text>Vegetables</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00326"/>
+      <navPoint id="np-290" playOrder="256">
+        <navLabel>
+          <text>Asparagus</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00327"/>
+      </navPoint>
+      <navPoint id="np-291" playOrder="258">
+        <navLabel>
+          <text>Pickled Beets</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00328"/>
+      </navPoint>
+      <navPoint id="np-292" playOrder="259">
+        <navLabel>
+          <text>Creamed Carrots</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00329"/>
+      </navPoint>
+      <navPoint id="np-293" playOrder="260">
+        <navLabel>
+          <text>Boiled New Cabbage</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00330"/>
+      </navPoint>
+      <navPoint id="np-294" playOrder="261">
+        <navLabel>
+          <text>Cold Slaw</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00331"/>
+      </navPoint>
+      <navPoint id="np-295" playOrder="263">
+        <navLabel>
+          <text>Spinach</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00333"/>
+      </navPoint>
+      <navPoint id="np-296" playOrder="264">
+        <navLabel>
+          <text>Cauliflower</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00334"/>
+      </navPoint>
+      <navPoint id="np-297" playOrder="265">
+        <navLabel>
+          <text>French Fried Potatoes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00335"/>
+      </navPoint>
+      <navPoint id="np-298" playOrder="266">
+        <navLabel>
+          <text>Potato Cakes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00336"/>
+      </navPoint>
+      <navPoint id="np-299" playOrder="267">
+        <navLabel>
+          <text>Brussels Sprouts</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00337"/>
+      </navPoint>
+      <navPoint id="np-300" playOrder="269">
+        <navLabel>
+          <text>Boiled Corn</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00338"/>
+      </navPoint>
+      <navPoint id="np-301" playOrder="270">
+        <navLabel>
+          <text>Lima Beans</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00339"/>
+      </navPoint>
+      <navPoint id="np-302" playOrder="271">
+        <navLabel>
+          <text>Kohl-Rabi</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00340"/>
+      </navPoint>
+      <navPoint id="np-303" playOrder="272">
+        <navLabel>
+          <text>Candied Sweet Potatoes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00341"/>
+      </navPoint>
+      <navPoint id="np-304" playOrder="273">
+        <navLabel>
+          <text>Baked Tomatoes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00342"/>
+      </navPoint>
+      <navPoint id="np-305" playOrder="274">
+        <navLabel>
+          <text>Browned Parsnips</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00343"/>
+      </navPoint>
+      <navPoint id="np-306" playOrder="275">
+        <navLabel>
+          <text>Oyster Plant</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00344"/>
+      </navPoint>
+      <navPoint id="np-307" playOrder="276">
+        <navLabel>
+          <text>Stuffed Potatoes</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00345"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-308" playOrder="278">
+      <navLabel>
+        <text>Salads and Salad Dressings</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00347"/>
+      <navPoint id="np-309" playOrder="280">
+        <navLabel>
+          <text>French Dressing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00348"/>
+      </navPoint>
+      <navPoint id="np-310" playOrder="281">
+        <navLabel>
+          <text>Mayonnaise I</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00349"/>
+      </navPoint>
+      <navPoint id="np-311" playOrder="282">
+        <navLabel>
+          <text>Mayonnaise II</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00350"/>
+      </navPoint>
+      <navPoint id="np-312" playOrder="283">
+        <navLabel>
+          <text>Boiled Salad Dressing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00351"/>
+      </navPoint>
+      <navPoint id="np-313" playOrder="284">
+        <navLabel>
+          <text>Russian Dressing</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00352"/>
+      </navPoint>
+      <navPoint id="np-314" playOrder="285">
+        <navLabel>
+          <text>Chicken Salad</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00353"/>
+      </navPoint>
+      <navPoint id="np-315" playOrder="286">
+        <navLabel>
+          <text>Fruit Salad</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00354"/>
+      </navPoint>
+      <navPoint id="np-316" playOrder="287">
+        <navLabel>
+          <text>Vegetable Salad</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00355"/>
+      </navPoint>
+      <navPoint id="np-317" playOrder="289">
+        <navLabel>
+          <text>Marquise Salad</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00357"/>
+      </navPoint>
+      <navPoint id="np-318" playOrder="291">
+        <navLabel>
+          <text>Potato Salad</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00358"/>
+      </navPoint>
+      <navPoint id="np-319" playOrder="292">
+        <navLabel>
+          <text>Lobster Salad</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00359"/>
+      </navPoint>
+      <navPoint id="np-320" playOrder="293">
+        <navLabel>
+          <text>Fish Salad</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00360"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-321" playOrder="294">
+      <navLabel>
+        <text>Beverages</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00361"/>
+      <navPoint id="np-322" playOrder="295">
+        <navLabel>
+          <text>How to Make Coffee</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00362"/>
+      </navPoint>
+      <navPoint id="np-323" playOrder="296">
+        <navLabel>
+          <text>Boiled Coffee</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00363"/>
+      </navPoint>
+      <navPoint id="np-324" playOrder="297">
+        <navLabel>
+          <text>Cocoa</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00364"/>
+      </navPoint>
+      <navPoint id="np-325" playOrder="298">
+        <navLabel>
+          <text>Cocoa Syrup</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00365"/>
+      </navPoint>
+      <navPoint id="np-326" playOrder="300">
+        <navLabel>
+          <text>Tea</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00367"/>
+      </navPoint>
+      <navPoint id="np-327" playOrder="302">
+        <navLabel>
+          <text>Chocolate</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00368"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-328" playOrder="303">
+      <navLabel>
+        <text>Candies</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00369"/>
+      <navPoint id="np-329" playOrder="304">
+        <navLabel>
+          <text>Cream Candy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00370"/>
+      </navPoint>
+      <navPoint id="np-330" playOrder="305">
+        <navLabel>
+          <text>Butter Scotch</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00371"/>
+      </navPoint>
+      <navPoint id="np-331" playOrder="306">
+        <navLabel>
+          <text>Butter Taffy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00372"/>
+      </navPoint>
+      <navPoint id="np-332" playOrder="307">
+        <navLabel>
+          <text>Chocolate Caramels</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00373"/>
+      </navPoint>
+      <navPoint id="np-333" playOrder="308">
+        <navLabel>
+          <text>Creamed Nuts</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00374"/>
+      </navPoint>
+      <navPoint id="np-334" playOrder="309">
+        <navLabel>
+          <text>Peanut Brittle</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00375"/>
+      </navPoint>
+      <navPoint id="np-335" playOrder="310">
+        <navLabel>
+          <text>Candied Popcorn</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00376"/>
+      </navPoint>
+      <navPoint id="np-336" playOrder="311">
+        <navLabel>
+          <text>Pulled Molasses Candy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00377"/>
+      </navPoint>
+      <navPoint id="np-337" playOrder="314">
+        <navLabel>
+          <text>Fudge</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00379"/>
+      </navPoint>
+      <navPoint id="np-338" playOrder="315">
+        <navLabel>
+          <text>Penuche</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00380"/>
+      </navPoint>
+      <navPoint id="np-339" playOrder="316">
+        <navLabel>
+          <text>Cocoa Cream Candy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00381"/>
+      </navPoint>
+      <navPoint id="np-340" playOrder="317">
+        <navLabel>
+          <text>Stuffed Prunes or Dates</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00382"/>
+      </navPoint>
+      <navPoint id="np-341" playOrder="318">
+        <navLabel>
+          <text>Cocoanut Cream Candy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00383"/>
+      </navPoint>
+      <navPoint id="np-342" playOrder="319">
+        <navLabel>
+          <text>Hickory Nut Candy</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00384"/>
+      </navPoint>
+      <navPoint id="np-343" playOrder="320">
+        <navLabel>
+          <text>Date and Peanut Paste</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00385"/>
+      </navPoint>
+      <navPoint id="np-344" playOrder="321">
+        <navLabel>
+          <text>Salted Almonds</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00386"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-345" playOrder="322">
+      <navLabel>
+        <text>Fireless Cookery</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00387"/>
+      <navPoint id="np-346" playOrder="325">
+        <navLabel>
+          <text>DIRECTIONS</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00389"/>
+      </navPoint>
+      <navPoint id="np-347" playOrder="326">
+        <navLabel>
+          <text>Cereals</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00390"/>
+      </navPoint>
+      <navPoint id="np-348" playOrder="327">
+        <navLabel>
+          <text>Steaming</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00391"/>
+      </navPoint>
+      <navPoint id="np-349" playOrder="328">
+        <navLabel>
+          <text>Soups</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00392"/>
+      </navPoint>
+      <navPoint id="np-350" playOrder="329">
+        <navLabel>
+          <text>Roast Meats</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00393"/>
+      </navPoint>
+      <navPoint id="np-351" playOrder="330">
+        <navLabel>
+          <text>Boiled or Stewed Meats</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00394"/>
+      </navPoint>
+      <navPoint id="np-352" playOrder="331">
+        <navLabel>
+          <text>Vegetables</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00395"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-353" playOrder="332">
+      <navLabel>
+        <text>Invalid Cookery</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00396"/>
+      <navPoint id="np-354" playOrder="333">
+        <navLabel>
+          <text>Barley Water</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00397"/>
+      </navPoint>
+      <navPoint id="np-355" playOrder="336">
+        <navLabel>
+          <text>Pineapple Juice</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00398"/>
+      </navPoint>
+      <navPoint id="np-356" playOrder="338">
+        <navLabel>
+          <text>Albuminized Orange</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00400"/>
+      </navPoint>
+      <navPoint id="np-357" playOrder="339">
+        <navLabel>
+          <text>Beef Tea</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00401"/>
+      </navPoint>
+      <navPoint id="np-358" playOrder="340">
+        <navLabel>
+          <text>Scraped Beef</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00402"/>
+      </navPoint>
+      <navPoint id="np-359" playOrder="341">
+        <navLabel>
+          <text>Spanish Cream</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00403"/>
+      </navPoint>
+      <navPoint id="np-360" playOrder="342">
+        <navLabel>
+          <text>Gluten Muffins</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00404"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-361" playOrder="343">
+      <navLabel>
+        <text>Preserving and Canning</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00405"/>
+      <navPoint id="np-362" playOrder="344">
+        <navLabel>
+          <text>General Directions</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00406"/>
+      </navPoint>
+      <navPoint id="np-363" playOrder="345">
+        <navLabel>
+          <text>Canning</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00407"/>
+      </navPoint>
+      <navPoint id="np-364" playOrder="347">
+        <navLabel>
+          <text>Preserving</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00408"/>
+      </navPoint>
+      <navPoint id="np-365" playOrder="349">
+        <navLabel>
+          <text>Directions for Canning by Open-Kettle Method</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00410"/>
+      </navPoint>
+      <navPoint id="np-366" playOrder="350">
+        <navLabel>
+          <text>Directions for Canning by Can-Cooked Method</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00411"/>
+      </navPoint>
+      <navPoint id="np-367" playOrder="351">
+        <navLabel>
+          <text>A Time-Table for Canning Fruits by the Can-Cooked Method</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00412"/>
+      </navPoint>
+      <navPoint id="np-368" playOrder="352">
+        <navLabel>
+          <text>Use of Sugar in Canning Fruit</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00413"/>
+      </navPoint>
+      <navPoint id="np-369" playOrder="353">
+        <navLabel>
+          <text>Canned Peaches</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00414"/>
+      </navPoint>
+      <navPoint id="np-370" playOrder="355">
+        <navLabel>
+          <text>Canned Cherries</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00416"/>
+      </navPoint>
+      <navPoint id="np-371" playOrder="356">
+        <navLabel>
+          <text>Canned Pears</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00417"/>
+      </navPoint>
+      <navPoint id="np-372" playOrder="358">
+        <navLabel>
+          <text>Canned Berries</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00418"/>
+      </navPoint>
+      <navPoint id="np-373" playOrder="359">
+        <navLabel>
+          <text>Asparagus</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00419"/>
+      </navPoint>
+      <navPoint id="np-374" playOrder="360">
+        <navLabel>
+          <text>Beans</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00420"/>
+      </navPoint>
+      <navPoint id="np-375" playOrder="361">
+        <navLabel>
+          <text>Corn</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00421"/>
+      </navPoint>
+      <navPoint id="np-376" playOrder="362">
+        <navLabel>
+          <text>Jams</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00422"/>
+      </navPoint>
+      <navPoint id="np-377" playOrder="363">
+        <navLabel>
+          <text>Raspberry Jam</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00423"/>
+      </navPoint>
+      <navPoint id="np-378" playOrder="365">
+        <navLabel>
+          <text>Plum Conserve</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00425"/>
+      </navPoint>
+      <navPoint id="np-379" playOrder="366">
+        <navLabel>
+          <text>Spiced Currants</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00426"/>
+      </navPoint>
+      <navPoint id="np-380" playOrder="367">
+        <navLabel>
+          <text>Jellies</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00427"/>
+      </navPoint>
+      <navPoint id="np-381" playOrder="369">
+        <navLabel>
+          <text>Pickles Pickled Peaches</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00428"/>
+      </navPoint>
+      <navPoint id="np-382" playOrder="370">
+        <navLabel>
+          <text>Chow Chow</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00429"/>
+      </navPoint>
+      <navPoint id="np-383" playOrder="371">
+        <navLabel>
+          <text>Sweet Tomato Pickles</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00430"/>
+      </navPoint>
+      <navPoint id="np-384" playOrder="372">
+        <navLabel>
+          <text>Chili Sauce</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00431"/>
+      </navPoint>
+      <navPoint id="np-385" playOrder="373">
+        <navLabel>
+          <text>Tomato Catsup</text>
+        </navLabel>
+        <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00432"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np-386" playOrder="375">
+      <navLabel>
+        <text>Keep the Home Baking Safeguarded</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00434"/>
+    </navPoint>
+    <navPoint id="np-387" playOrder="377">
+      <navLabel>
+        <text>BAKE IT WITH ROYAL AND BE SURE</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00436"/>
+    </navPoint>
+    <navPoint id="np-388" playOrder="378">
+      <navLabel>
+        <text>THE FULL PROJECT GUTENBERG LICENSE</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-2.htm.xhtml#pg-footer-heading"/>
+    </navPoint>
+  </navMap>
+  <pageList id="pages" class="pagelist">
+    <navLabel>
+      <text>Pages</text>
+    </navLabel>
+    <pageTarget id="pt-1" value="1" type="normal" playOrder="385">
+      <navLabel>
+        <text>[Pg 1]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00003"/>
+    </pageTarget>
+    <pageTarget id="pt-2" value="2" type="normal" playOrder="407">
+      <navLabel>
+        <text>[Pg 2]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00005"/>
+    </pageTarget>
+    <pageTarget id="pt-3" value="3" type="normal" playOrder="24">
+      <navLabel>
+        <text>[Pg 3]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00010"/>
+    </pageTarget>
+    <pageTarget id="pt-4" value="4" type="normal" playOrder="124">
+      <navLabel>
+        <text>[Pg 4]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00019"/>
+    </pageTarget>
+    <pageTarget id="pt-5" value="5" type="normal" playOrder="201">
+      <navLabel>
+        <text>[Pg 5]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00026"/>
+    </pageTarget>
+    <pageTarget id="pt-6" value="6" type="normal" playOrder="279">
+      <navLabel>
+        <text>[Pg 6]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00033"/>
+    </pageTarget>
+    <pageTarget id="pt-7" value="7" type="normal" playOrder="380">
+      <navLabel>
+        <text>[Pg 7]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00043"/>
+    </pageTarget>
+    <pageTarget id="pt-8" value="8" type="normal" playOrder="390">
+      <navLabel>
+        <text>[Pg 8]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00052"/>
+    </pageTarget>
+    <pageTarget id="pt-9" value="9" type="normal" playOrder="401">
+      <navLabel>
+        <text>[Pg 9]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00062"/>
+    </pageTarget>
+    <pageTarget id="pt-10" value="10" type="normal" playOrder="412">
+      <navLabel>
+        <text>[Pg 10]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00072"/>
+    </pageTarget>
+    <pageTarget id="pt-11" value="11" type="normal" playOrder="421">
+      <navLabel>
+        <text>[Pg 11]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00080"/>
+    </pageTarget>
+    <pageTarget id="pt-12" value="12" type="normal" playOrder="428">
+      <navLabel>
+        <text>[Pg 12]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00087"/>
+    </pageTarget>
+    <pageTarget id="pt-13" value="13" type="normal" playOrder="436">
+      <navLabel>
+        <text>[Pg 13]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00094"/>
+    </pageTarget>
+    <pageTarget id="pt-14" value="14" type="normal" playOrder="6">
+      <navLabel>
+        <text>[Pg 14]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00101"/>
+    </pageTarget>
+    <pageTarget id="pt-15" value="15" type="normal" playOrder="11">
+      <navLabel>
+        <text>[Pg 15]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00106"/>
+    </pageTarget>
+    <pageTarget id="pt-16" value="16" type="normal" playOrder="18">
+      <navLabel>
+        <text>[Pg 16]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00112"/>
+    </pageTarget>
+    <pageTarget id="pt-17" value="17" type="normal" playOrder="29">
+      <navLabel>
+        <text>[Pg 17]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00122"/>
+    </pageTarget>
+    <pageTarget id="pt-18" value="18" type="normal" playOrder="42">
+      <navLabel>
+        <text>[Pg 18]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00134"/>
+    </pageTarget>
+    <pageTarget id="pt-19" value="19" type="normal" playOrder="52">
+      <navLabel>
+        <text>[Pg 19]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00143"/>
+    </pageTarget>
+    <pageTarget id="pt-20" value="20" type="normal" playOrder="60">
+      <navLabel>
+        <text>[Pg 20]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00150"/>
+    </pageTarget>
+    <pageTarget id="pt-21" value="21" type="normal" playOrder="69">
+      <navLabel>
+        <text>[Pg 21]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00158"/>
+    </pageTarget>
+    <pageTarget id="pt-22" value="22" type="normal" playOrder="77">
+      <navLabel>
+        <text>[Pg 22]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00166"/>
+    </pageTarget>
+    <pageTarget id="pt-23" value="23" type="normal" playOrder="87">
+      <navLabel>
+        <text>[Pg 23]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00175"/>
+    </pageTarget>
+    <pageTarget id="pt-24" value="24" type="normal" playOrder="95">
+      <navLabel>
+        <text>[Pg 24]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00182"/>
+    </pageTarget>
+    <pageTarget id="pt-25" value="25" type="normal" playOrder="102">
+      <navLabel>
+        <text>[Pg 25]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00188"/>
+    </pageTarget>
+    <pageTarget id="pt-26" value="26" type="normal" playOrder="114">
+      <navLabel>
+        <text>[Pg 26]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00198"/>
+    </pageTarget>
+    <pageTarget id="pt-27" value="27" type="normal" playOrder="123">
+      <navLabel>
+        <text>[Pg 27]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00207"/>
+    </pageTarget>
+    <pageTarget id="pt-28" value="28" type="normal" playOrder="132">
+      <navLabel>
+        <text>[Pg 28]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-0.htm.xhtml#pgepubid00215"/>
+    </pageTarget>
+    <pageTarget id="pt-29" value="29" type="normal" playOrder="144">
+      <navLabel>
+        <text>[Pg 29]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00226"/>
+    </pageTarget>
+    <pageTarget id="pt-30" value="30" type="normal" playOrder="152">
+      <navLabel>
+        <text>[Pg 30]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00233"/>
+    </pageTarget>
+    <pageTarget id="pt-31" value="31" type="normal" playOrder="163">
+      <navLabel>
+        <text>[Pg 31]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00243"/>
+    </pageTarget>
+    <pageTarget id="pt-32" value="32" type="normal" playOrder="172">
+      <navLabel>
+        <text>[Pg 32]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00251"/>
+    </pageTarget>
+    <pageTarget id="pt-33" value="33" type="normal" playOrder="182">
+      <navLabel>
+        <text>[Pg 33]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00260"/>
+    </pageTarget>
+    <pageTarget id="pt-34" value="34" type="normal" playOrder="192">
+      <navLabel>
+        <text>[Pg 34]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00269"/>
+    </pageTarget>
+    <pageTarget id="pt-35" value="35" type="normal" playOrder="202">
+      <navLabel>
+        <text>[Pg 35]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00278"/>
+    </pageTarget>
+    <pageTarget id="pt-36" value="36" type="normal" playOrder="211">
+      <navLabel>
+        <text>[Pg 36]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00287"/>
+    </pageTarget>
+    <pageTarget id="pt-37" value="37" type="normal" playOrder="229">
+      <navLabel>
+        <text>[Pg 37]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00302"/>
+    </pageTarget>
+    <pageTarget id="pt-38" value="38" type="normal" playOrder="240">
+      <navLabel>
+        <text>[Pg 38]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00312"/>
+    </pageTarget>
+    <pageTarget id="pt-39" value="39" type="normal" playOrder="250">
+      <navLabel>
+        <text>[Pg 39]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00321"/>
+    </pageTarget>
+    <pageTarget id="pt-40" value="40" type="normal" playOrder="262">
+      <navLabel>
+        <text>[Pg 40]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00332"/>
+    </pageTarget>
+    <pageTarget id="pt-41" value="41" type="normal" playOrder="277">
+      <navLabel>
+        <text>[Pg 41]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00346"/>
+    </pageTarget>
+    <pageTarget id="pt-42" value="42" type="normal" playOrder="288">
+      <navLabel>
+        <text>[Pg 42]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00356"/>
+    </pageTarget>
+    <pageTarget id="pt-43" value="43" type="normal" playOrder="299">
+      <navLabel>
+        <text>[Pg 43]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00366"/>
+    </pageTarget>
+    <pageTarget id="pt-44" value="44" type="normal" playOrder="313">
+      <navLabel>
+        <text>[Pg 44]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00378"/>
+    </pageTarget>
+    <pageTarget id="pt-45" value="45" type="normal" playOrder="324">
+      <navLabel>
+        <text>[Pg 45]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00388"/>
+    </pageTarget>
+    <pageTarget id="pt-46" value="46" type="normal" playOrder="337">
+      <navLabel>
+        <text>[Pg 46]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00399"/>
+    </pageTarget>
+    <pageTarget id="pt-47" value="47" type="normal" playOrder="348">
+      <navLabel>
+        <text>[Pg 47]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00409"/>
+    </pageTarget>
+    <pageTarget id="pt-48" value="48" type="normal" playOrder="354">
+      <navLabel>
+        <text>[Pg 48]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00415"/>
+    </pageTarget>
+    <pageTarget id="pt-49" value="49" type="normal" playOrder="364">
+      <navLabel>
+        <text>[Pg 49]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00424"/>
+    </pageTarget>
+    <pageTarget id="pt-50" value="50" type="normal" playOrder="374">
+      <navLabel>
+        <text>[Pg 50]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00433"/>
+    </pageTarget>
+    <pageTarget id="pt-51" value="51" type="normal" playOrder="376">
+      <navLabel>
+        <text>[Pg 51]</text>
+      </navLabel>
+      <content src="285609155383144226_38193-h-1.htm.xhtml#pgepubid00435"/>
+    </pageTarget>
+  </pageList>
+</ncx>
