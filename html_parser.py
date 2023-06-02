@@ -328,7 +328,7 @@ for row in rows:
     if cols:
         text = cols[0].text.strip()
         href = cols[1].find('a')['href'].strip()
-        data.append([text.replace(",", ""), 'Origin', str(42),href])  # Change '42' to your desired value between 1 and 100
+        data.append([text.replace(",", ""), 'Origin', str(42),href])
 
 # Write data to CSV file
 with open('output.csv', 'w', newline='') as csvfile:
